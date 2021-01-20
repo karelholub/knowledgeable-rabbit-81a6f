@@ -44,7 +44,7 @@ sections:
           přirozeně vybízející k reakci.
         actions:
           - label: Chci vědět víc
-            url: /features
+            url: /dcom
             style: secondary
             has_icon: true
             icon: arrow-right
