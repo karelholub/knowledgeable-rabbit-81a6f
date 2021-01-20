@@ -67,7 +67,7 @@ sections:
     title: Inspirace
     subtitle: 'Podívejte se, kde všude najde chatbot svoje místo a kde vám dokáže pomoc'
     reviews:
-      - author: John Doe
+      - author: Dotazník a lead generation
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
