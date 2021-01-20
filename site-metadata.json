@@ -101,7 +101,7 @@
             {
                 "type": "footer_form",
                 "title": "Ozveme se vám",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Nechte nám email a my se ozveme\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
