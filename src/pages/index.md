@@ -18,9 +18,7 @@ sections:
     type: section_features
     background: gray
     title: Co umí
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Pomáhá, prodává a poradí si s personalizovanými dokumenty'
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
