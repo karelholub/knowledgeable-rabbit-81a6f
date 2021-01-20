@@ -11,7 +11,7 @@ sections:
       obrat obchodu nebo snížit náklady na back office. Zaučí se rychle a
       pracuje neúnavně. Jeho výsledky uvidíte už po pár dnech.
     actions:
-      - label: Learn More
+      - label: Dozvědět se víc
         url: /features
         style: primary
   - section_id: features
