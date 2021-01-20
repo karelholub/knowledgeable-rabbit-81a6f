@@ -58,7 +58,7 @@ sections:
           Jsem chatbot, pracuju 24/7 a podpořím váš byznys.
         actions:
           - label: Chci vědět víc
-            url: /features
+            url: /chatbot
             style: secondary
             has_icon: true
             icon: arrow-right
