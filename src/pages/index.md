@@ -65,9 +65,7 @@ sections:
     type: section_reviews
     background: white
     title: Inspirace
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+    subtitle: 'Podívejte se, kde všude najde chatbot svoje místo a kde vám dokáže pomoc'
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
