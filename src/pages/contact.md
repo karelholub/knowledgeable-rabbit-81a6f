@@ -24,7 +24,7 @@ sections:
         label: Co vás zajímá
         default_value: Please select
         options:
-          - Error on the site
+          - 'Interaktivní '
           - Sponsorship
           - Other
       - input_type: textarea
