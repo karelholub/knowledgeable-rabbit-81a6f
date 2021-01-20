@@ -53,9 +53,9 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          Nasazení chatbota bude opravdu rychlé. S připravenými scénáři budete
-          sklízet ovoce už za několik dnů. A co teprve, až si vytvoříte vlastní
-          scénáře.
+          Promluvme si jako lidi. Co na tom, že některé z nás naprogramovali,
+          abychom naslouchali klientům, radili, pomáhali... ale i prodávali.
+          Jsem chatbot, pracuju 24/7 a podpořím váš byznys.
         actions:
           - label: Chci vědět víc
             url: /features
