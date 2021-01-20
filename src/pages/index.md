@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Robot pro klientskou komunikaci
+    title: Prostě lepší klientská komunikace
     content: >
       Chatbot od CGOS je kolega, jakého jste v týmu vždycky chtěli. Umí zvýšit
       obrat obchodu nebo snížit náklady na back office. Zaučí se rychle a
