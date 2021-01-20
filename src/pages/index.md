@@ -90,7 +90,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Komunikujte lépe - s námi!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Mluvte s klienty tak, aby chtěli poslouchat a poslouchejte tak, aby s vámi
+      chtěli mluvit.
     actions:
       - label: Chci vědět víc
         url: /signup
