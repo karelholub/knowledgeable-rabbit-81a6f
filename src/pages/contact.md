@@ -34,6 +34,6 @@ sections:
         name: consent
         label: Souhlasím s možností kontaktování na základě dotazu
         is_required: true
-    submit_label: Send Message
+    submit_label: Odeslat
 template: landing
 ---
