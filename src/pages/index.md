@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Robot pro klientskou komunikaci
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      Chatbot od CGOS je kolega, jakého jste v týmu vždycky chtěli. Umí zvýšit
+      obrat obchodu nebo snížit náklady na back office. Zaučí se rychle a
+      pracuje neúnavně. Jeho výsledky uvidíte už po pár dnech.
     actions:
       - label: Learn More
         url: /features
