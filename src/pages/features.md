@@ -12,7 +12,7 @@ sections:
       - label: Free Trial
         url: /signup
         style: primary
-      - label: View Demo
+      - label: Chci Demo
         url: '#'
         style: secondary
   - section_id: call-to-action
