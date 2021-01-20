@@ -24,7 +24,7 @@ sections:
         label: Co vás zajímá
         default_value: Please select
         options:
-          - 'Interaktivní '
+          - Interaktivní dokumenty
           - Sponsorship
           - Other
       - input_type: textarea
