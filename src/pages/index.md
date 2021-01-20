@@ -80,7 +80,7 @@ sections:
           vhodného produktu nebo služby. Komunikace formou rozhovoru poskytuje
           větší možnost personalizace obsahu a budí důvěru. Výsledkem je vyšší
           konverzní poměr.
-      - author: Richard Roe
+      - author: Chatbot v HR
         content: >-
           Chcete na uchazeče zapůsobit jako inovativní společnost? Vystupujte
           tak i v náborovém procesu. Chatbot na HR stránkách zaujme, zodpoví
