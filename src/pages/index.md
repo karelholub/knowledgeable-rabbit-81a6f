@@ -20,7 +20,7 @@ sections:
     title: Co umí
     subtitle: 'Pomáhá, prodává a poradí si s personalizovanými dokumenty'
     features:
-      - title: The Best Feature of Your Services
+      - title: Chatbot je víc než jen mašinka na dotazy
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
