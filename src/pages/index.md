@@ -25,9 +25,9 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          Zvládne toho daleko víc, než jen odpovídat na dotazy. Posbírá
-          informace, vytvoří smlouvu, nabídne digitální podpis a odešle
-          dokumenty tam, kam si zákazník přeje.
+          Sestavíme promyšlené scénáře, které kombinují e-mail, SMS a další
+          kanály. Komunikace se spustí na základě popsaných událostí. A bude se
+          také automaticky vyhodnocovat.
         actions:
           - label: Chci vědět víc
             url: /features
