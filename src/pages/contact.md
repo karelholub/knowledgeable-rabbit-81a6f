@@ -13,7 +13,7 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: Name
+        label: Jméno a příjmení
         is_required: true
       - input_type: email
         name: email
