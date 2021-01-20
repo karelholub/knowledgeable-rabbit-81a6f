@@ -69,8 +69,11 @@ sections:
     reviews:
       - author: Dotazník a lead generation
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Chatbot je mistrem ve sběru dat od klientů. Během rozhovoru je provede
+          připraveným dotazníkem. Procento dokončení tak bude daleko vyšší, než
+          když je necháte ve formuláři klikat samotné. Ze získaných dat vytvoří
+          konkrétní leady k obchodním příležitostem a rovnou je přidělí těm
+          správným obchodním expertům.
       - author: Jane Roe
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
