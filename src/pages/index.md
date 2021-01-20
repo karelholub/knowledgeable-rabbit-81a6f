@@ -74,7 +74,7 @@ sections:
           když je necháte ve formuláři klikat samotné. Ze získaných dat vytvoří
           konkrétní leady k obchodním příležitostem a rovnou je přidělí těm
           správným obchodním expertům.
-      - author: Jane Roe
+      - author: Vyšší konverze
         content: >-
           Chatbot dokáže díky připraveným scénářům pomoci lidem s výběrem
           vhodného produktu nebo služby. Komunikace formou rozhovoru poskytuje
