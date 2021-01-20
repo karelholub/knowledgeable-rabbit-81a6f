@@ -32,9 +32,7 @@ sections:
         label: Message
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+        label: Souhlasím s možností kontaktování na základě dotazu
         is_required: true
     submit_label: Send Message
 template: landing
