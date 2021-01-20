@@ -22,7 +22,7 @@ sections:
       - input_type: select
         name: subject
         label: Co vás zajímá
-        default_value: Please select
+        default_value: Vyberte oblast zájmu
         options:
           - Interaktivní dokumenty
           - Chatbot
