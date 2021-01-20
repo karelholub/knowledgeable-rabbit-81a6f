@@ -13,7 +13,7 @@ sections:
       klientů a úspěch firmy. Jsme připraveni vám s ní pomoci na všech frontách.
     actions:
       - label: Chci vědět víc
-        url: /features
+        url: /contact
         style: primary
   - section_id: features
     type: section_features
