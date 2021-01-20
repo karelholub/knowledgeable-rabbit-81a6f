@@ -82,8 +82,9 @@ sections:
           konverzní poměr.
       - author: Richard Roe
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Chcete na uchazeče zapůsobit jako inovativní společnost? Vystupujte
+          tak i v náborovém procesu. Chatbot na HR stránkách zaujme, zodpoví
+          jejich dotazy k benefitům a nasměruje je ke vhodné volné pozici.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
