@@ -1,5 +1,5 @@
 ---
-title: 'Napište nám, s čím vám můžeme pomoci'
+title: Contact
 sections:
   - section_id: contact
     type: section_contact
