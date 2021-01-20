@@ -28,7 +28,7 @@ sections:
           informace, vytvoří smlouvu, nabídne digitální podpis a odešle
           dokumenty tam, kam si zákazník přeje.
         actions:
-          - label: Learn More
+          - label: Chci vědět víc
             url: /features
             style: secondary
             has_icon: true
