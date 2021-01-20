@@ -28,7 +28,7 @@ sections:
           - Chatbot
           - Dynamická komunikace
       - input_type: textarea
-        name: message
+        name: Zpráva
         label: Message
       - input_type: checkbox
         name: consent
