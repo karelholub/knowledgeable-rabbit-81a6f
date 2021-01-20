@@ -37,10 +37,9 @@ sections:
       - title: Češtinu má v malíku
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Rozumí, co se po něm chce, a personalizovaný obsah zasazuje do
+          smysluplných odpovědí. Výsledek vzbuzuje důvěru a zvyšuje konverze.
         actions:
           - label: Learn More
             url: /features
