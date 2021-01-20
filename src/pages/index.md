@@ -39,8 +39,9 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
-          Rozumí, co se po něm chce, a personalizovaný obsah zasazuje do
-          smysluplných odpovědí. Výsledek vzbuzuje důvěru a zvyšuje konverze.
+          Hromadná obchodní sdělení – to je něco, od čeho se klienti raději
+          odhlásí. Dynamická komunikace je pravý opak: cílená, personalizovaná a
+          přirozeně vybízející k reakci.
         actions:
           - label: Chci vědět víc
             url: /features
