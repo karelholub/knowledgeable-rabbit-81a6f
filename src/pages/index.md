@@ -76,9 +76,10 @@ sections:
           správným obchodním expertům.
       - author: Jane Roe
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          Chatbot dokáže díky připraveným scénářům pomoci lidem s výběrem
+          vhodného produktu nebo služby. Komunikace formou rozhovoru poskytuje
+          větší možnost personalizace obsahu a budí důvěru. Výsledkem je vyšší
+          konverzní poměr.
       - author: Richard Roe
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
