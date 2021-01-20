@@ -69,7 +69,7 @@ sections:
     title: Co o nás říkají
     subtitle: 'Podívejte se, kde všude najde chatbot svoje místo a kde vám dokáže pomoc'
     reviews:
-      - author: Dotazník a lead generation
+      - author: funkční desgin
         content: >-
           Chatbot je mistrem ve sběru dat od klientů. Během rozhovoru je provede
           připraveným dotazníkem. Procento dokončení tak bude daleko vyšší, než
