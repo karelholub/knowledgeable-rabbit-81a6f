@@ -7,9 +7,10 @@ sections:
     image_alt: App preview
     title: Prostě lepší klientská komunikace
     content: >
-      Chatbot od CGOS je kolega, jakého jste v týmu vždycky chtěli. Umí zvýšit
-      obrat obchodu nebo snížit náklady na back office. Zaučí se rychle a
-      pracuje neúnavně. Jeho výsledky uvidíte už po pár dnech.
+      Cílem personalizované komunikace je dialog, který vede nejen k nákupu a
+      spokojenosti klienta, ale i k budování skutečného vztahu mezi klientem a
+      značkou. Jako obchodní nástroj budoucnosti může zásadně ovlivnit přízeň
+      klientů a úspěch firmy. Jsme připraveni vám s ní pomoci na všech frontách.
     actions:
       - label: Chci vědět víc
         url: /features
