@@ -67,7 +67,7 @@ sections:
     type: section_reviews
     background: white
     title: Co o nás říkají
-    subtitle: 'Podívejte se, kde všude najde chatbot svoje místo a kde vám dokáže pomoc'
+    subtitle: 'Podívejte se, kde všude pomáháme vytvářet lepší klientskou komunikaci'
     reviews:
       - author: funkční desgin
         content: >-
