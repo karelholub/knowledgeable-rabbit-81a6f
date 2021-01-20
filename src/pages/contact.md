@@ -25,7 +25,7 @@ sections:
         default_value: Please select
         options:
           - Interaktivní dokumenty
-          - Sponsorship
+          - Chatbot
           - Other
       - input_type: textarea
         name: message
