@@ -26,7 +26,7 @@ sections:
         options:
           - Interaktivní dokumenty
           - Chatbot
-          - Other
+          - Dynamická komunikace
       - input_type: textarea
         name: message
         label: Message
