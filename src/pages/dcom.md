@@ -44,7 +44,7 @@ sections:
     title: Komunikujte lépe - s námi!
     subtitle: Začněte využívat výhody lepší komunikace už dnes.
     actions:
-      - label: Get Started
+      - label: Začněte hned
         url: /contact
         style: secondary
 template: landing
