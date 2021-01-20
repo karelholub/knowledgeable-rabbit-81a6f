@@ -44,7 +44,7 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Company",
+                "title": "Společnost",
                 "nav_links": [
                     {
                         "label": "About Us",
