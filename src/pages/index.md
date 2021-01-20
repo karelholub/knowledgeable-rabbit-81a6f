@@ -41,7 +41,7 @@ sections:
           Rozumí, co se po něm chce, a personalizovaný obsah zasazuje do
           smysluplných odpovědí. Výsledek vzbuzuje důvěru a zvyšuje konverze.
         actions:
-          - label: Learn More
+          - label: Chci vědět víc
             url: /features
             style: secondary
             has_icon: true
