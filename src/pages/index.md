@@ -95,7 +95,7 @@ sections:
       chtěli mluvit.
     actions:
       - label: Chci vědět víc
-        url: /signup
+        url: /contact
         style: primary
   - section_id: recent-posts
     type: section_posts
