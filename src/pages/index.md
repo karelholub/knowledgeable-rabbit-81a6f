@@ -50,10 +50,10 @@ sections:
       - title: Zabydlí se u vás za pár dnů
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Nasazení chatbota bude opravdu rychlé. S připravenými scénáři budete
+          sklízet ovoce už za několik dnů. A co teprve, až si vytvoříte vlastní
+          scénáře.
         actions:
           - label: Learn More
             url: /features
