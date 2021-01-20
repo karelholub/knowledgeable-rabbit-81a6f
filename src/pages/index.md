@@ -55,7 +55,7 @@ sections:
           sklízet ovoce už za několik dnů. A co teprve, až si vytvoříte vlastní
           scénáře.
         actions:
-          - label: Learn More
+          - label: Chci vědět víc
             url: /features
             style: secondary
             has_icon: true
