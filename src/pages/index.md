@@ -89,7 +89,7 @@ sections:
           jejich dotazy k benefitům a nasměruje je ke vhodné volné pozici.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Komunikujte lépe - s námi!
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Chci vědět víc
