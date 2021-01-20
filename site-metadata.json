@@ -47,7 +47,7 @@
                 "title": "Společnost",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "O nás",
                         "url": "/about",
                         "style": "link"
                     },
