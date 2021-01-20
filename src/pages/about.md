@@ -1,8 +1,8 @@
 ---
 title: O nás
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  V klientské korespondenci nesázíme na staré způsoby, ale hledáme dosud
+  nepředstavitelné. Naším heslem je absolutní preciznost a detailní reporting.
 image: images/about.jpg
 image_alt: Team members in a conference room
 template: page
