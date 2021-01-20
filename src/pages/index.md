@@ -66,7 +66,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Inspirace
+    title: Co o nás říkají
     subtitle: 'Podívejte se, kde všude najde chatbot svoje místo a kde vám dokáže pomoc'
     reviews:
       - author: Dotazník a lead generation
