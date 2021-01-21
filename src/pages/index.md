@@ -109,7 +109,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: Chci vědět víc
-            url: art/
+            url: rt
             style: secondary
             has_icon: true
             icon: arrow-right
