@@ -127,7 +127,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: Chci vědět víc
-            url: lorem-ipsum
+            url: /cobrowse
             style: secondary
             has_icon: true
             icon: arrow-right
