@@ -112,8 +112,8 @@ sections:
             url: lorem-ipsum
             style: secondary
             has_icon: true
-            icon: arrow-left
-            icon_position: left
+            icon: arrow-right
+            icon_position: right
             new_window: false
             no_follow: false
             type: action
