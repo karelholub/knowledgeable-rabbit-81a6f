@@ -8,7 +8,6 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/2.jpg
     image_alt: App preview on a phone and tablet
     title: Co-browsing
     content: >
