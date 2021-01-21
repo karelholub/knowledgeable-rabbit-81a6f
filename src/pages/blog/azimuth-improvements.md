@@ -5,8 +5,8 @@ subtitle: >-
   dodržení grafických nebo obchodních manuálů
 author: src/data/authors/john-doe.yaml
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Moderní personalizovaná klientská komunikace si nevystačí jen s hromadným nebo
+  on-line
 date: '2021-01-21'
 thumb_image: images/1_thumb.jpg
 template: post
