@@ -1,5 +1,5 @@
 ---
-title: Release Notes - Azimuth Improvements and New Integrations
+title: Moderní klientská komunikace je interaktivní
 subtitle: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. 
