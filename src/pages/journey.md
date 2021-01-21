@@ -11,32 +11,35 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Customer journey mapping
     content: >
-      ### Technologie pro asistované nebo také sdílené procházení webu v sobě
-      spojuje pohodlí nákupu z domova s osobní radou a asistencí, pro kterou
-      lidé dříve museli do prodejny. Dovoluje tak firmám plný přechod do online
-      prostředí, ať už se jedná o prodej zboží nebo služeb.
+      ### Mapování zákaznických cest je klíčové pro efektivní nastavení procesů
+      a komunikace. Nikdo už nenapíše do recenze: Tomu neuvěříte, čím jsem si s
+      nimi musel projít...! Vy totiž budete přesně vědět, čím vaši klienti
+      procházejí, a budete to mít plně pod kontrolou.
 
 
-      ## Při prodeji i v podpoře
+      ## Nástroj pro cílenou změnu
 
 
-      Platforma pro asistované procházení webu najde uplatnění nejen při online
-      obchodování, ale i v zákaznické podpoře nebo při interním školení.
+      Dobře sestavená mapa zákaznických cest je ideálním podkladem pro cílené
+      zlepšování procesů a komunikace. Nestřílíte naslepo, ale míříte na místa,
+      kde klienti evidentně klopýtají, narážejí nebo odcházejí ke konkurenci.
 
 
-      ## Bezpečně a bez instalace
+      ## Okno do duše zákazníků
 
 
-      Přenos dat je zabezpečený a nevyžaduje na straně klienta žádnou instalaci
-      ani nastavení. Vše se odehrává přímo ve webovém prohlížeči.
+      Nelze zlepšovat vše najednou. Díky sběru zpětné vazby v jednotlivých
+      krocích zákaznické cesty (tzv. touchpointy) získáte cenný vhled do
+      zkušeností, pocitů a motivací vašich klientů. Snadno se pak rozhodnete,
+      kde začít a čím pokračovat.
 
 
-      ## Komunikace všemi kanály
+      ## Žádné slepé uličky
 
 
-      Komunikační rozhraní je připraveno na psanou, mluvenou i video konverzaci.
-      Je na klientovi, které kanály využije. Co-browsing vždy respektuje jeho
-      soukromí.
+      Zákaznické cesty můžeme zmapovat pro firmu jako celek, pro vybranou službu
+      nebo se dokonce zaměřit jen na konkrétní touchpoint. Rychle tak zjistíte,
+      kde by měly být vaše priority.
     actions:
       - label: Chci vědět víc
         url: /signup
