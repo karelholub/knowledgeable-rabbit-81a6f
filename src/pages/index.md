@@ -157,6 +157,7 @@ sections:
           vhodného produktu nebo služby. Komunikace formou rozhovoru poskytuje
           větší možnost personalizace obsahu a budí důvěru. Výsledkem je vyšší
           konverzní poměr.
+        avatar: images/review1.jpg
       - author: outsourcing
         content: >-
           Chcete na uchazeče zapůsobit jako inovativní společnost? Vystupujte
