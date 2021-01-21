@@ -57,11 +57,6 @@
                         "style": "link"
                     },
                     {
-                        "label": "Sign U",
-                        "url": "/signup",
-                        "style": "link"
-                    },
-                    {
                         "label": "Kontakt",
                         "url": "/contact",
                         "style": "link"
