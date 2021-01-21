@@ -1,5 +1,5 @@
 ---
-title: 5 Customer Service Skills that Every Employee Needs
+title: 'Víte, že… se kvůli vám kácí lesy?'
 subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
 author: src/data/authors/john-doe.yaml
 excerpt: >-
