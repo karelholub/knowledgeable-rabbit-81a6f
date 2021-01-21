@@ -89,7 +89,16 @@ sections:
           vžít se do role zákazníka. My to uděláme za vás a systematicky
           prověříme vaši komunikaci.
         image_alt: lorem-ipsum
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: feature_item
         image: images/2.jpg
   - section_id: reviews
