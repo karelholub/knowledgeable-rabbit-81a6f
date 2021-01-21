@@ -10,7 +10,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: Dynamická komunikace
+    title: Komunikační mystery shopping
     content: >
       ### Proměňte jednostrannou distribuci informací ve skutečný dialog. Stačí
       v komunikaci s klienty využít naplno možností digitálních médií. Pomůžeme
