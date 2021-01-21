@@ -145,11 +145,12 @@ sections:
     reviews:
       - author: funkční desgin
         content: >-
-          Chatbot je mistrem ve sběru dat od klientů. Během rozhovoru je provede
-          připraveným dotazníkem. Procento dokončení tak bude daleko vyšší, než
-          když je necháte ve formuláři klikat samotné. Ze získaných dat vytvoří
-          konkrétní leady k obchodním příležitostem a rovnou je přidělí těm
-          správným obchodním expertům.
+          CGOS nám pomohl vylepšit design našich klientských dokumentů. Společně
+          jsme prošli typické šablony a kolegové z CGOS pak na základě
+          grafického a komunikačního manuálu přišli s desítkami zlepšení. Naše
+          nové dokumenty vypadají skvěle a naši klienti se v nich mnohem lépe
+          vyznají.
+        avatar: images/review2.jpg
       - author: digitální komunikace
         content: >-
           Chatbot dokáže díky připraveným scénářům pomoci lidem s výběrem
