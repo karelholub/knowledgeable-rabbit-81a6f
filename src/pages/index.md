@@ -182,7 +182,9 @@ sections:
     type: section_posts
     background: gray
     title: Poslední články
-    subtitle: 'přečtěte si detaily o našich řešeních, '
+    subtitle: >-
+      přečtěte si detaily o našich řešeních, jejich konkrétní využití a
+      inspirace i pro vaší společnost
 meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
 template: landing
