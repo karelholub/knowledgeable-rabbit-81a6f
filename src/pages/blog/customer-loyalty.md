@@ -6,7 +6,6 @@ excerpt: "Dopisy, zejména ty špatně napsané,\_mohou ovlivnit zdraví klient�
 date: '2019-04-23'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
-image: images/3.jpg
 image_alt: A group of people working in a cafe
 template: post
 ---
