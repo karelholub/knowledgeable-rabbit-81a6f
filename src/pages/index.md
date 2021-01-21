@@ -153,16 +153,21 @@ sections:
         avatar: images/review2.jpg
       - author: digitální komunikace
         content: >-
-          Chatbot dokáže díky připraveným scénářům pomoci lidem s výběrem
-          vhodného produktu nebo služby. Komunikace formou rozhovoru poskytuje
-          větší možnost personalizace obsahu a budí důvěru. Výsledkem je vyšší
-          konverzní poměr.
+          Přechod z papírové na digitální komunikaci pro nás byla opravdová
+          výzva a CGOS nám pomohl vše bez problémů projít a realizovat. Mají
+          široký záběr zkušeností a dokázali nás upozornit na mnoho věcí, které
+          bychom nejspíš přehlédli nebo zapomněli. Ukázali nám, že digitalizace
+          není jen o převodu papíru do počítače, ale o změně způsobu myšlení a
+          práce.
         avatar: images/review1.jpg
       - author: outsourcing
         content: >-
-          Chcete na uchazeče zapůsobit jako inovativní společnost? Vystupujte
-          tak i v náborovém procesu. Chatbot na HR stránkách zaujme, zodpoví
-          jejich dotazy k benefitům a nasměruje je ke vhodné volné pozici.
+          Využíváme platformu a služby CGOS pro plný outsourcing některých typů
+          klientské komunikace. Šetří nám to značné prostředky za provoz
+          infrastruktury a licencí, které jsme zkrátka nemuseli nakoupit a
+          udržovat. A přitom máme přístup ke špičkové technologii a k týmovým
+          kapacitám, které bychom si interně nemohli dovolit.
+        avatar: images/review3.jpg
   - section_id: call-to-action
     type: section_cta
     title: Komunikujte lépe - s námi!
