@@ -18,7 +18,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Co umí
+    title: Máme řešení pro každou situaci
     subtitle: 'Pomáhá, prodává a poradí si s personalizovanými dokumenty'
     features:
       - title: Automatizace komunikačních kampaní
