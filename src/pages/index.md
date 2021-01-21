@@ -108,7 +108,7 @@ sections:
           vidět nové příležitosti.
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: Chci vědět víc
             url: lorem-ipsum
             style: link
             has_icon: false
