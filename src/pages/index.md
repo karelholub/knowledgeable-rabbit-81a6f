@@ -107,7 +107,16 @@ sections:
           Provedeme vás digitální transformací, pomůžeme vám změnit myšlení a
           vidět nové příležitosti.
         image_alt: lorem-ipsum
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: feature_item
         image: images/4.jpg
   - section_id: reviews
