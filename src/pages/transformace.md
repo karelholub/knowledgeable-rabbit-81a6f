@@ -11,35 +11,32 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Digitální transformace
     content: >
-      ### Mapování zákaznických cest je klíčové pro efektivní nastavení procesů
-      a komunikace. Nikdo už nenapíše do recenze: Tomu neuvěříte, čím jsem si s
-      nimi musel projít...! Vy totiž budete přesně vědět, čím vaši klienti
-      procházejí, a budete to mít plně pod kontrolou.
+      ### Vyměnit dopis za e-mail nestačí. Digitální transformace je mnohem
+      hlubší proměna, která musí začít v hlavách lidí. Jejím výsledkem je dialog
+      s klientem plně podpořený interními daty a procesy, a to přes komunikační
+      kanál, který klient preferuje, a na téma, které je pro něj relevantní.
 
 
-      ## Nástroj pro cílenou změnu
+      ## Digitálně uvažující firma
 
 
-      Dobře sestavená mapa zákaznických cest je ideálním podkladem pro cílené
-      zlepšování procesů a komunikace. Nestřílíte naslepo, ale míříte na místa,
-      kde klienti evidentně klopýtají, narážejí nebo odcházejí ke konkurenci.
+      Provedeme vás celou tou zásadní změnou a naučíme vaše lidi myslet
+      digitálně, bit by bit.
 
 
-      ## Okno do duše zákazníků
+      ## Digitální procesy
 
 
-      Nelze zlepšovat vše najednou. Díky sběru zpětné vazby v jednotlivých
-      krocích zákaznické cesty (tzv. touchpointy) získáte cenný vhled do
-      zkušeností, pocitů a motivací vašich klientů. Snadno se pak rozhodnete,
-      kde začít a čím pokračovat.
+      Zapojíme digitalizaci do vašich interních procesů. Ty pak budou rychlejší
+      a méně náchylné k chybám. Uvidíte, že klienti to ocení a budou se k vám
+      vracet.
 
 
-      ## Žádné slepé uličky
+      ## Digitální nástroje
 
 
-      Zákaznické cesty můžeme zmapovat pro firmu jako celek, pro vybranou službu
-      nebo se dokonce zaměřit jen na konkrétní touchpoint. Rychle tak zjistíte,
-      kde by měly být vaše priority.
+      Propojíme různé nástroje do uceleného systému a nastavíme je tak, aby
+      sloužily přesně vašim potřebám.
     actions:
       - label: Chci vědět víc
         url: /signup
