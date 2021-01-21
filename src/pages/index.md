@@ -84,17 +84,10 @@ sections:
         type: feature_item
         image: images/11.jpg
       - title: Komunikační mystery shopping
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Každý po čase ztratí odstup od vlastního podnikání a je pro něj těžké
+          vžít se do role zákazníka. My to uděláme za vás a systematicky
+          prověříme vaši komunikaci.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
