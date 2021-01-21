@@ -12,33 +12,32 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Co-browsing
     content: >
-      ### Zmapujeme klíčové scénáře vašich služeb a zaměříme se na cílenou,
-      personalizovanou komunikaci. Ověříme, zda odpovídá očekávání, motivaci a
-      potřebám vašich klientů. Tak zjistíme, kde vám klienti utíkají a proč.
+      ### Technologie pro asistované nebo také sdílené procházení webu v sobě
+      spojuje pohodlí nákupu z domova s osobní radou a asistencí, pro kterou
+      lidé dříve museli do prodejny. Dovoluje tak firmám plný přechod do online
+      prostředí, ať už se jedná o prodej zboží nebo služeb.
 
 
-      ## Jak vás vnímá klient
+      ## Při prodeji i v podpoře
 
 
-      Máme potřebné zkušenosti a odstup, abychom vám mohli nabídnout čerstvý
-      pohled zvenčí. Na vaši komunikaci se podíváme očima vašich typických
-      klientů.
+      Platforma pro asistované procházení webu najde uplatnění nejen při online
+      obchodování, ale i v zákaznické podpoře nebo při interním školení.
 
 
-      ## Kde to drhne
+      ## Bezpečně a bez instalace
 
 
-      Kde je komunikace moc a kde se jí nedostává? Není náhodou v rozporu s
-      předchozím sdělením nebo s očekáváním klienta? Šlo by zlepšit copy?
-      Navrhneme konkrétní kroky ke zlepšení.
+      Přenos dat je zabezpečený a nevyžaduje na straně klienta žádnou instalaci
+      ani nastavení. Vše se odehrává přímo ve webovém prohlížeči.
 
 
-      ## Co očekávat
+      ## Komunikace všemi kanály
 
 
-      Když posílíte slabá místa své komunikace s klienty, můžete očekávat lepší
-      konverzní poměr, zvýšení obratů a tržeb a snížení nákladů na řešení dotazů
-      a stížností.
+      Komunikační rozhraní je připraveno na psanou, mluvenou i video konverzaci.
+      Je na klientovi, které kanály využije. Co-browsing vždy respektuje jeho
+      soukromí.
     actions:
       - label: Chci vědět víc
         url: /signup
