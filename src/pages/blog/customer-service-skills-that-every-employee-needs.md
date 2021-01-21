@@ -1,6 +1,6 @@
 ---
 title: 'Víte, že… se kvůli vám kácí lesy?'
-subtitle: Opravdu musíte všechno tisknout
+subtitle: Opravdu musíte všechno tisknout?
 author: src/data/authors/john-doe.yaml
 excerpt: >-
   Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
