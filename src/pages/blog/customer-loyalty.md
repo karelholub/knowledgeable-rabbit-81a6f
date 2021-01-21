@@ -1,6 +1,6 @@
 ---
 title: Dopisy z banky vám mohou způsobit poruchu emoční stability
-subtitle: A story about customer loyalty
+subtitle: Netýrejte svoje klienty špatným obsahem
 author: src/data/authors/jane-doe.yaml
 excerpt: "Dopisy, zejména ty špatně napsané,\_mohou ovlivnit zdraví klientů\_a jejich\_emoční stabilitu. Zamyslete se proto vy, kteří (v bankách a pojišťovnách) dopisy píšete, jak\_velký vliv na zdraví svých klientů máte."
 date: '2019-04-23'
