@@ -1,8 +1,8 @@
 ---
 title: Moderní klientská komunikace je interaktivní
 subtitle: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. 
+  Dejte svým uživatelům možnost vytvářet kvalitní obsah bez starostí o dodržení
+  dodržení grafických nebo obchodních manuálů
 author: src/data/authors/john-doe.yaml
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
