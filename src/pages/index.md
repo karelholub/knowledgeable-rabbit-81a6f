@@ -71,7 +71,16 @@ sections:
           zakopnou a kde narazí. Díky měření zákaznické zkušenosti v
           jednotlivých bodech budete vědět, na čem zapracovat.
         image_alt: lorem-ipsum
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: feature_item
   - section_id: reviews
     type: section_reviews
