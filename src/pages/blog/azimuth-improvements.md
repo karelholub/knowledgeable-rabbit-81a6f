@@ -6,7 +6,8 @@ subtitle: >-
 author: src/data/authors/john-doe.yaml
 excerpt: >-
   Moderní personalizovaná klientská komunikace si nevystačí jen s hromadným nebo
-  on-line ro
+  on-line zpracováním dokumentů, ale svoje nezastupitelné místo tu mají
+  interaktivní procesy.
 date: '2021-01-21'
 thumb_image: images/1_thumb.jpg
 template: post
