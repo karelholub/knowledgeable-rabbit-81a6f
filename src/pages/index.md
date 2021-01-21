@@ -19,7 +19,9 @@ sections:
     type: section_features
     background: gray
     title: Máme řešení pro každou situaci
-    subtitle: 'Pomáhá, prodává a poradí si s personalizovanými dokumenty'
+    subtitle: >-
+      Dokonale personalizovaná klientská komunikace pro všechny typy klientů,
+      napříč všemi kanály, snadno a efektivně
     features:
       - title: Automatizace komunikačních kampaní
         image: images/feature1.png
