@@ -12,26 +12,33 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Komunikační mystery shopping
     content: >
-      ### Proměňte jednostrannou distribuci informací ve skutečný dialog. Stačí
-      v komunikaci s klienty využít naplno možností digitálních médií. Pomůžeme
-      vám připravit pro každého z nich personalizované sdělení v interaktivní
-      formě. Výsledky vám potvrdí, že se to vyplatí.
+      ### Zmapujeme klíčové scénáře vašich služeb a zaměříme se na cílenou,
+      personalizovanou komunikaci. Ověříme, zda odpovídá očekávání, motivaci a
+      potřebám vašich klientů. Tak zjistíme, kde vám klienti utíkají a proč.
 
 
+      ## Jak vás vnímá klient
 
 
-      ### Sbírejte data a nebojte se je použít
+      Máme potřebné zkušenosti a odstup, abychom vám mohli nabídnout čerstvý
+      pohled zvenčí. Na vaši komunikaci se podíváme očima vašich typických
+      klientů.
 
 
-      Sbírejte přes digitální dokumenty data od svých klientů a rovnou je
-      využijte při personalizované komunikaci. Osobní přístup prodává.
+      ## Kde to drhne
 
 
-      ### Komunikace, ne jen distribuce informací
+      Kde je komunikace moc a kde se jí nedostává? Není náhodou v rozporu s
+      předchozím sdělením nebo s očekáváním klienta? Šlo by zlepšit copy?
+      Navrhneme konkrétní kroky ke zlepšení.
 
 
-      Vyměňte nudná PDF za personalizované microsite s atraktivními prvky, jako
-      jsou interaktivní grafy, modelace, kalkulace a dotazníky.
+      ## Co očekávat
+
+
+      Když posílíte slabá místa své komunikace s klienty, můžete očekávat lepší
+      konverzní poměr, zvýšení obratů a tržeb a snížení nákladů na řešení dotazů
+      a stížností.
     actions:
       - label: Chci vědět víc
         url: /signup
