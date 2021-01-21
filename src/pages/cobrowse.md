@@ -10,7 +10,7 @@ sections:
     background: gray
     image: images/2.jpg
     image_alt: App preview on a phone and tablet
-    title: Komunikační mystery shopping
+    title: Co-browsing
     content: >
       ### Zmapujeme klíčové scénáře vašich služeb a zaměříme se na cílenou,
       personalizovanou komunikaci. Ověříme, zda odpovídá očekávání, motivaci a
