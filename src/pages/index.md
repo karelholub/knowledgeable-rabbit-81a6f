@@ -66,17 +66,10 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Customer journey mapping
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Popíšeme a vizualizujeme, kudy se ubírají kroky vašich zákazníků. Kde
+          zakopnou a kde narazí. Díky měření zákaznické zkušenosti v
+          jednotlivých bodech budete vědět, na čem zapracovat.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
