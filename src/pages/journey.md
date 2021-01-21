@@ -9,7 +9,7 @@ sections:
     type: section_content
     background: gray
     image_alt: App preview on a phone and tablet
-    title: Co-browsing
+    title: Customer journey mapping
     content: >
       ### Technologie pro asistované nebo také sdílené procházení webu v sobě
       spojuje pohodlí nákupu z domova s osobní radou a asistencí, pro kterou
