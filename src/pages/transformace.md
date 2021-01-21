@@ -9,7 +9,7 @@ sections:
     type: section_content
     background: gray
     image_alt: App preview on a phone and tablet
-    title: Customer journey mapping
+    title: Digitální transformace
     content: >
       ### Mapování zákaznických cest je klíčové pro efektivní nastavení procesů
       a komunikace. Nikdo už nenapíše do recenze: Tomu neuvěříte, čím jsem si s
