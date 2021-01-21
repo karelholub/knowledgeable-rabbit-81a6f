@@ -102,17 +102,10 @@ sections:
         type: feature_item
         image: images/2.jpg
       - title: Digitální transformace
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Velká změna v myšlení, která není snadná, ale přinese výsledky.
+          Provedeme vás digitální transformací, pomůžeme vám změnit myšlení a
+          vidět nové příležitosti.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
