@@ -119,7 +119,7 @@ sections:
             type: action
         type: feature_item
         image: images/4.jpg
-      - title: lorem-ipsum
+      - title: Co-browsing
         content: >-
           ## Lorem ipsum
 
