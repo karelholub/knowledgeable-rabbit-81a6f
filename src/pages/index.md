@@ -83,7 +83,7 @@ sections:
             type: action
         type: feature_item
         image: images/11.jpg
-      - title: lorem-ipsum
+      - title: Komunikační mystery shopping
         content: >-
           ## Lorem ipsum
 
