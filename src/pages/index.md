@@ -101,7 +101,7 @@ sections:
             type: action
         type: feature_item
         image: images/2.jpg
-      - title: lorem-ipsum
+      - title: Digitální transformace
         content: >-
           ## Lorem ipsum
 
