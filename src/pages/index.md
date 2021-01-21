@@ -82,6 +82,7 @@ sections:
             no_follow: false
             type: action
         type: feature_item
+        image: images/11.jpg
   - section_id: reviews
     type: section_reviews
     background: white
