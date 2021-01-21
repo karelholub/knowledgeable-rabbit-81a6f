@@ -120,17 +120,10 @@ sections:
         type: feature_item
         image: images/4.jpg
       - title: Co-browsing
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Asistované procházení webu v sobě spojuje to nejlepší z online
+          nakupování a osobní návštěvy v prodejně nebo na pobočce. Vytěžte z něj
+          co nejvíc pro svůj byznys.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
