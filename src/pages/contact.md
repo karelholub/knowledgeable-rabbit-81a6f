@@ -28,7 +28,7 @@ sections:
           - Dynamická komunikace
       - input_type: textarea
         name: Chcete nám něco říct?
-        label: Message
+        label: Zpráva
       - input_type: checkbox
         name: consent
         label: Souhlasím s možností kontaktování na základě dotazu
