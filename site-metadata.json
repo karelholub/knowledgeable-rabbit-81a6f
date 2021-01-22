@@ -23,7 +23,7 @@
             },
             {
                 "label": "O nás",
-                "url": "lorem-ipsum",
+                "url": "/aboutus",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
