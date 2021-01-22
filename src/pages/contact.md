@@ -27,7 +27,7 @@ sections:
           - Chatbot
           - Dynamická komunikace
           - Komunikační mystery shopping
-          - lorem-ipsum
+          - Automatizace komunikačních kampaní
       - input_type: textarea
         name: Chcete nám něco říct?
         label: Zpráva
