@@ -185,7 +185,7 @@ sections:
     subtitle: >-
       přečtěte si detaily o našich řešeních, jejich konkrétní využití a
       inspirace i pro vaší společnost
-meta_title: Stackbit Azimuth Theme
+meta_title: Lepší komunikace
 meta_description: The preview of the Azimuth theme
 template: landing
 ---
