@@ -186,6 +186,6 @@ sections:
       přečtěte si detaily o našich řešeních, jejich konkrétní využití a
       inspirace i pro vaší společnost
 meta_title: Lepší komunikace
-meta_description: Personalizovaná klintská komunikace od CGOS
+meta_description: Personalizovaná klientská komunikace od CGOS
 template: landing
 ---
