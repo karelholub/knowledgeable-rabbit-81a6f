@@ -186,6 +186,6 @@ sections:
       přečtěte si detaily o našich řešeních, jejich konkrétní využití a
       inspirace i pro vaší společnost
 meta_title: Lepší komunikace
-meta_description: The preview of the Azimuth theme
+meta_description: Personalizovaná kleintská komunikace od CGOS
 template: landing
 ---
