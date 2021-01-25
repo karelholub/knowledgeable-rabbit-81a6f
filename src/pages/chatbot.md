@@ -51,7 +51,7 @@ sections:
       Spojte se s námi pro ještě lepší, skutečně personalizovanou klientskou
       komunikaci.
     actions:
-      - label: Get Started
+      - label: ichC
         url: /contact
         style: secondary
 template: landing
