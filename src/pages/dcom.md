@@ -33,7 +33,7 @@ sections:
       jsou interaktivní grafy, modelace, kalkulace a dotazníky.
     actions:
       - label: Chci vědět víc
-        url: /signup
+        url: /contact
         style: primary
       - label: Chci Demo
         url: /contact
