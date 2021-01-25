@@ -100,7 +100,7 @@ sections:
             no_follow: false
             type: action
         type: feature_item
-        image: images/2.jpg
+        image: images/gettyimages-1174262839-170667a.jpg
       - title: Digitální transformace
         content: >
           Velká změna v myšlení, která není snadná, ale přinese výsledky.
