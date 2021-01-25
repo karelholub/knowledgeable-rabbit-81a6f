@@ -42,7 +42,7 @@ sections:
         url: /contact
         style: primary
       - label: Chci Demo
-        url: '#'
+        url: /contact
         style: secondary
   - section_id: call-to-action
     type: section_cta
