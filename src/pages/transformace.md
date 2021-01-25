@@ -39,7 +39,7 @@ sections:
       sloužily přesně vašim potřebám.
     actions:
       - label: Chci vědět víc
-        url: /signup
+        url: /contact
         style: primary
       - label: Chci Demo
         url: '#'
