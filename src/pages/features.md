@@ -19,7 +19,7 @@ sections:
     title: Komunikujte lépe - s námi!
     subtitle: Začněte využívat výhody lepší komunikace už dnes.
     actions:
-      - label: Get Started
+      - label: etěnčaZ
         url: /contact
         style: secondary
 template: landing
