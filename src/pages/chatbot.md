@@ -8,7 +8,6 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Chatbot
     content: >
