@@ -118,7 +118,7 @@ sections:
             no_follow: false
             type: action
         type: feature_item
-        image: images/4.jpg
+        image: images/gettyimages-1062562640-170667a.jpg
       - title: Co-browsing
         content: >
           Asistované procházení webu v sobě spojuje to nejlepší z online
