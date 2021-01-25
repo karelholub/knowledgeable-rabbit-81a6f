@@ -40,7 +40,7 @@ sections:
       a stížností.
     actions:
       - label: Chci vědět víc
-        url: /signup
+        url: /contact
         style: primary
       - label: Chci Demo
         url: '#'
