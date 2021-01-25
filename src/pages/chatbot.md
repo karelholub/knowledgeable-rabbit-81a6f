@@ -52,7 +52,7 @@ sections:
       komunikaci.
     actions:
       - label: Get Started
-        url: /
+        url: /contact
         style: secondary
 template: landing
 ---
