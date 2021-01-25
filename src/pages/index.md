@@ -52,7 +52,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Inteligentní chatbot
-        image: images/feature3.png
+        image: images/gettyimages-1206801125-170667a.jpg
         image_alt: App user profile preview
         content: >
           Promluvme si jako lidi. Co na tom, že některé z nás naprogramovali,
