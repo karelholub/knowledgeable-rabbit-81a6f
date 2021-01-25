@@ -24,7 +24,7 @@ sections:
       napříč všemi kanály, snadno a efektivně
     features:
       - title: Automatizace komunikačních kampaní
-        image: images/feature1.png
+        image: images/gettyimages-1182604339-170667a.jpg
         image_alt: App preview on a phone and tablet
         content: >
           Sestavíme promyšlené scénáře, které kombinují e-mail, SMS a další
