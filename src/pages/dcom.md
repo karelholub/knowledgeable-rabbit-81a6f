@@ -36,7 +36,7 @@ sections:
         url: /signup
         style: primary
       - label: Chci Demo
-        url: tcatnoc/
+        url: /contact
         style: secondary
   - section_id: call-to-action
     type: section_cta
