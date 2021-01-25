@@ -20,7 +20,7 @@ sections:
     subtitle: Začněte využívat výhody lepší komunikace už dnes.
     actions:
       - label: Get Started
-        url: '#'
+        url: /contact
         style: secondary
 template: landing
 ---
