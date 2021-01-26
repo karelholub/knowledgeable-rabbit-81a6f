@@ -44,7 +44,7 @@ sections:
       - label: Chci Demo
         url: /contact
         style: secondary
-  - section_id: lorem-ipsum
+  - section_id: ''
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
