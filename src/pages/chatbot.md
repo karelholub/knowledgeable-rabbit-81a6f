@@ -77,9 +77,7 @@ sections:
           kolegové. Chatbot jim předá historii své komunikace s klientem, aby
           mohli plynule navázat. Na jakékoli platformě.
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Je možné efektivně použít chatbot pro back office procesy? Jak?
         answer: >-
           ## Lorem ipsum
 
