@@ -78,17 +78,41 @@ sections:
       - question: >-
           A co třeba realitní kanceláře? Uměla by nám dynamická komunikace pomoc
           v naší práci? A jak?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          **Katalog nemovitostí**
+
+          Makléř si sám sestavuje katalog nemovitostí v připravené šabloně.
+          Zvládne to snadno, bez znalostí kódování webu, a výsledek skvěle
+          reprezentuje firemním designem.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Jednorázová poptávka**
+
+          Makléř připraví obsah a rozešle e-mail s linkem na landing page s
+          nabídkou. Zájemce na ní zjistí detaily nemovitosti, seznámí se s
+          profilem makléře, objedná se v kalendáři na dostupný termín prohlídky,
+          na mapě si projde dojezdové vzdálenosti. To vše v době, kdy se makléř
+          věnuje jinému klientovi.
 
 
-          - Lorem ipsum
+          **Dlouhodobá poptávka**
 
-          - dolor sit amet
+          Makléř připraví obsah nabídky a dá přístup klientovi, který nemovitost
+          nabízí. Ten sleduje počet shlédnutí inzerátu, počet prohlídek i jejich
+          hodnocení. Ve stejném prostředí také komunikuje s makléřem, upravuje
+          cenu nemovitosti, nahrává fotky i různé dokumenty. Může využít
+          připravených formulářů a když váhá, nahlédne do průvodce prodejem
+          nemovitosti.
+
+
+          **Online kancelář makléře**
+
+          Makléř tu na jednom místě najde vše, co potřebuje pro svou práci. Není
+          to nic jiného než jeho personalizovaná microsite pro komunikaci s
+          centrálou. Má tu notifikace o nových událostech, nástroj na modelování
+          a kalkulace, průvodce transakcemi, formuláře, dokumenty a požadavky.
+          Během vteřiny zná svou tržbu a má přehled o otevřených obchodech. Je
+          svým pánem.
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
