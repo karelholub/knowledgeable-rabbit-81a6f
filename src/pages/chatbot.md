@@ -57,17 +57,25 @@ sections:
       - question: >-
           Chceme chatbot využít v našem klientském kontaktním centru. Jak nám
           může pomoc?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          **Sníží počet dotazů až o 70 %**
+
+          Chatbot zvládá rutinní komunikaci se zákazníky v kteroukoli denní i
+          noční hodinu, a významně tak ulehčuje život svým lidským kolegům. U
+          některých procesů kompletně vyřeší až 70 % požadavků.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Třídí klienty**
+
+          Na základě odpovědí na úvodní sadu dotazů chatbot klienty roztřídí do
+          segmentů a předá je do těch správných řešitelských skupin.
 
 
-          - Lorem ipsum
+          **Hladká předávka**
 
-          - dolor sit amet
+          Pokud chatbot nedokáže situaci vyřešit sám, pomohou jeho lidští
+          kolegové. Chatbot jim předá historii své komunikace s klientem, aby
+          mohli plynule navázat. Na jakékoli platformě.
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
