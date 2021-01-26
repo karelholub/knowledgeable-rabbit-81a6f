@@ -23,17 +23,25 @@ sections:
           Potřebujeme automatizovat proces se zaručenou doručitelností
           dokumentu. Když není možné doručit email, pak se musí dokument
           vytisknout a poslat poštou. Jde to?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          V případech, kdy na doručení informace opravdu záleží, nastavíme flow,
+          které využije více doručovacích kanálů – tzv. omnikanálová komunikace.
+          Začneme kanály, které tolik nestojí – typicky e-mailem. Pokud v
+          požadovaném čase nemáme potvrzení o doručení nebo otevření e-mailu,
+          odešleme automaticky SMS. Ta je sice dražší, ale má vyšší
+          pravděpodobnost doručení.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Příklad: Reset hesla**
 
+          Odešleme e-mail s odkazem na nastavení nového hesla
 
-          - Lorem ipsum
+          Čekáme na potvrzení o doručení e-mailu
 
-          - dolor sit amet
+          Pokud potvrzení přijde do 30 minut, scénář končí
+
+          Pokud potvrzení nepřijde do 30 minut, scénář pokračuje odesláním SMS
+          zprávy
         type: faq_item
     type: section_faq
   - section_id: call-to-action
