@@ -17,21 +17,21 @@ sections:
       prostředí, ať už se jedná o prodej zboží nebo služeb.
 
 
-      ## Při prodeji i v podpoře
+      #### Při prodeji i v podpoře
 
 
       Platforma pro asistované procházení webu najde uplatnění nejen při online
       obchodování, ale i v zákaznické podpoře nebo při interním školení.
 
 
-      ## Bezpečně a bez instalace
+      #### Bezpečně a bez instalace
 
 
       Přenos dat je zabezpečený a nevyžaduje na straně klienta žádnou instalaci
       ani nastavení. Vše se odehrává přímo ve webovém prohlížeči.
 
 
-      ## Komunikace všemi kanály
+      #### Komunikace všemi kanály
 
 
       Komunikační rozhraní je připraveno na psanou, mluvenou i video konverzaci.
