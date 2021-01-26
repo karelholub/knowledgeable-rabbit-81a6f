@@ -24,9 +24,6 @@ sections:
       zákazník přeje.
 
 
-      ![](https://image.freepik.com/free-vector/chatbot-icon-concept-support-robot-technology-digital-chat-bot-application\_48369-14496.jpg)
-
-
       #### Češtinu má v malíku
 
 
