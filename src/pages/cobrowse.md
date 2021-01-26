@@ -49,9 +49,7 @@ sections:
     subtitle: ''
     background: gray
     faq_items:
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Jak se dá cobrowsing využít v obchodní síti?
         answer: >-
           ## Lorem ipsum
 
