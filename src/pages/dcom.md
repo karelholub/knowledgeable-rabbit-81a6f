@@ -51,17 +51,29 @@ sections:
       - question: >-
           Je možné dynamickou komunikaci využít pro procesy ve finančních
           institucích? Jak?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          **Informační portál**
+
+          Personalizovaný elektronický výpis pozve klienta na jeho osobní
+          microsite, kde si zkontroluje své výnosy, ověří stav konta a
+          investiční profil. Může spravovat své finanční produkty online a
+          jednoduše kontaktovat pobočku nebo přímo svého bankéře.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Kontaktní systém**
+
+          Klient si na své micrositě najde nejbližší pobočku a ověří její
+          otevírací dobu. Vybere si konzultanta i volný termín a objedná se k
+          němu. K tomu navíc získá informace o parkování, dojezdové době a zda
+          je na pobočce dětský koutek.
 
 
-          - Lorem ipsum
+          **Klientská kalkulačka na hypotéku**
 
-          - dolor sit amet
+          Umí modelovat různé varianty v případě nové hypotéky i při
+          refinancování z jiné banky. Klient si sám pomocí posuvníků nastavuje
+          parametry hypotéky a když je s nimi spokojen, odesílá online poptávku
+          bankéři.
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
