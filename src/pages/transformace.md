@@ -81,8 +81,8 @@ sections:
         answer: "Potenciální klienty oslovíte personalizovanou e-mailovou kampaní s odkazem na osobní microsite vytvořenou v\_[nástroji pro dynamickou komunikaci](http://copygeneral.cz/automatizace-komunikacnich-kampani). Cílová stránka obsahuje personalizovanou nabídku a také formulář, přes který klient nahraje scan své smlouvy se stávajícím poskytovatelem služeb.\n\nSystém na pozadí smlouvu strojově zpracuje, vyčte z ní základní parametry, připraví personalizovanou konkurenční nabídku a předá ji klientovi jeho preferovaným distribučním kanálem.\nCelý proces běží automaticky bez lidského zásahu a trvá řádově jednotky vteřin. U většiny typů smluv dosahuje přesnosti ve vysokých desítkách procent. Kontaktnímu centru systém předá jen minimální počet složitých případů.\n"
         type: faq_item
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          V dnešní době je složité a nákladné udržovat kontaktní místa pro naše
+          klienty. Je možné přenést celé kontaktní místo do on-line prostředí?
         answer: >-
           ## Lorem ipsum
 
