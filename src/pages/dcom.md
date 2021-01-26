@@ -76,8 +76,8 @@ sections:
           bankéři.
         type: faq_item
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          A co třeba realitní kanceláře? Uměla by nám dynamická komunikace pomoc
+          v naší práci? A jak?
         answer: >-
           ## Lorem ipsum
 
