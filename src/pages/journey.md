@@ -60,17 +60,40 @@ sections:
       - question: >-
           Mapování průchodu službou vypadá jako hodně komplexní projekt. Jak to
           vlastně celé probíhá?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          **Co budeme zlepšovat?**
+
+          Než se pustíme do samotného mapování zákaznických cest, nastavíme si
+          spolu s vámi cíle a očekávání - co by se mělo zlepšit a jak moc?
+          Obvykle se díváme na konverzní poměr, chybovost, míru opuštění
+          (drop-out rate) a procento klientů, kteří kontaktují zákaznickou
+          podporu. Zajímá nás nejen aktuální stav zmíněných klíčových parametrů
+          (KPI), ale i jejich dlouhodobé trendy.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Zákazník, těší mě**
+
+          Druhý krokem je seznamování. Zajímá nás, kdo je to ten tajemný
+          zákazník, pro kterého chceme zmapovat a upravit průchod službou. Jaké
+          má motivace, co je pro něj překážkou, jaké má znalosti a dovednosti, s
+          jakým očekáváním přichází a v jakém rozpoložení? Takový detailní popis
+          jedné nebo více typických klientských person je extrémně důležitý při
+          rozhodování, jak nastavit komunikaci, aby odpovídala jejich očekávání,
+          potřebám a motivaci.
 
 
-          - Lorem ipsum
+          **Nakreslíme si mapu**
 
-          - dolor sit amet
+          S pomocí našich vizualizačních nástrojů vytvoříme detailní popis
+          průchodu službou, který zachycuje jak prvky viditelné pro zákazníka
+          (front-stage), tak procesní část skrytou ve firmě (back-stage).
+          Důležitou součástí mapy je komunikační vrstva, která zachycuje obsah i
+          formu sdělení v každém komunikačním bodu napříč všemi komunikačními
+          kanály. Z mapy je pak dobře patrný soulad či nesoulad celkového
+          nastavení služby s očekáváním konkrétní persony - s ohledem na její
+          emoce, motivace, překážky a obavy. Mapa obsahuje i KPI v jednotlivých
+          bodech a odkazy na analytické nástroje, kde je možné hodnoty v reálném
+          čase monitorovat.
         type: faq_item
     type: section_faq
   - section_id: call-to-action
