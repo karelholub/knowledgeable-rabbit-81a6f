@@ -78,17 +78,7 @@ sections:
           Klienti nám často posílají konkurenční nabídky, které naši pracovníci
           musí projít a navrhnout lepší. Umíte takový proces digitalizovat a
           automatizovat?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: "Potenciální klienty oslovíte personalizovanou e-mailovou kampaní s odkazem na osobní microsite vytvořenou v\_[nástroji pro dynamickou komunikaci](http://copygeneral.cz/automatizace-komunikacnich-kampani). Cílová stránka obsahuje personalizovanou nabídku a také formulář, přes který klient nahraje scan své smlouvy se stávajícím poskytovatelem služeb.\n\nSystém na pozadí smlouvu strojově zpracuje, vyčte z ní základní parametry, připraví personalizovanou konkurenční nabídku a předá ji klientovi jeho preferovaným distribučním kanálem.\nCelý proces běží automaticky bez lidského zásahu a trvá řádově jednotky vteřin. U většiny typů smluv dosahuje přesnosti ve vysokých desítkách procent. Kontaktnímu centru systém předá jen minimální počet složitých případů.\n"
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
