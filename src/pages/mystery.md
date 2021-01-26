@@ -11,12 +11,10 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Komunikační mystery shopping
     content: >
-
-
       ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-komunikacni-mystery-shopping-fin.jpg)
 
 
-      ### Zmapujeme klíčové scénáře vašich služeb a zaměříme se na cílenou,
+      > Zmapujeme klíčové scénáře vašich služeb a zaměříme se na cílenou,
       personalizovanou komunikaci. Ověříme, zda odpovídá očekávání, motivaci a
       potřebám vašich klientů. Tak zjistíme, kde vám klienti utíkají a proč.
 
