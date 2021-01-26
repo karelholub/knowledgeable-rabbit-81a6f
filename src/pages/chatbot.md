@@ -11,7 +11,12 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Chatbot
     content: >
-      ## Chatbot je kolega, kterého jste v týmu vždycky chtěli. Zvyšuje obraty v
+      ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-chatbot2-fin.jpg)
+
+
+      >
+
+      > Chatbot je kolega, kterého jste v týmu vždycky chtěli. Zvyšuje obraty v
       obchodě a snižuje náklady v back-office. Zaučí se rychle a pracuje
       neúnavně. Jeho výsledky uvidíte už za měsíc.
 
