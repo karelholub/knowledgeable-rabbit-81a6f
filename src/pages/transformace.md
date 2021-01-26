@@ -51,7 +51,7 @@ sections:
         url: /contact
         style: secondary
   - section_id: Nechte se inspirovat
-    title: lorem-ipsum
+    title: Nechte se ins
     subtitle: lorem-ipsum
     background: gray
     faq_items: []
