@@ -26,7 +26,7 @@ sections:
 
 
 
-      ![](https://www.flaticon.com/premium-icon/icons/svg/1698/1698535.svg)
+      ![](https://image.freepik.com/free-vector/chatbot-icon-concept-support-robot-technology-digital-chat-bot-application_48369-14496.jpg)
 
 
       #### Češtinu má v malíku
