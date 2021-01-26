@@ -46,17 +46,40 @@ sections:
       - question: >-
           Je možné automatizovat připomínací a re-marketingové procesy? A jde to
           i napříč různými kanály a formáty?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          V prvním kroku odchází hromadný e-mail na předem definovanou skupinu
+          zákazníků. E-mail obsahuje nabídku a call-to-action v podobě
+          sledovaného URL. Po prvním kroku se flow větví na základě podmínek:
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **1. Klient otevřel e-mail, ale nekliknul na link:**
+
+          Za 3 dny po otevření odchází další e-mail s rekapitulací nabídky a s
+          nabídkou osobní konzultace s poradcem (personalizace podle lokality).
+
+          Zároveň odchází interní e-mail poradci. Obsahuje informace o
+          klientovi, pokyn k oslovení (když se neozve zítra sám, pozítří volat)
+          a odkaz do CRM pro záznam výsledku jednání.
 
 
-          - Lorem ipsum
+          **2. Klient otevřel e-mail a kliknul, ale nedokončil transakci na webu
+          (nekoupil)**
 
-          - dolor sit amet
+          Za 2 dny po návštěvě webu odchází další e-mail s rekapitulací a
+          odkazem na stránku, kde může klient transakci dokončit. Volitelně může
+          obsahovat pobídku, např. slevový kupon.
+
+
+          **3. Klient otevřel e-mail, kliknul a dokončil transakci na webu**
+
+          Systém počká 7 dní a odešle e-mail s žádostí o poskytnutí zpětné vazby
+          na průběh transakce a poskytnuté služby.
+
+
+          **4. Klient neotevřel e-mail**
+
+          Po 7 dnech odchází stejný e-mail jako na začátku, jen s naléhavějším
+          předmětem – např. upozornění na blížící se konec časově omezené akce.
         type: faq_item
     type: section_faq
   - section_id: call-to-action
