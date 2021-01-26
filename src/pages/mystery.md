@@ -41,6 +41,14 @@ sections:
       Když posílíte slabá místa své komunikace s klienty, můžete očekávat lepší
       konverzní poměr, zvýšení obratů a tržeb a snížení nákladů na řešení dotazů
       a stížností.
+
+
+
+
+      > Máte klientskou komunikaci postavenou na očekávání svých klientů, nebo
+      na vlastních IT procesech? Možná už vám chybí odstup, abyste dokázali
+      vnímat, co a kdy klientům říkáte a co a kdy by od vás chtěli slyšet.
+      Komunikační mystery shopping vám otevře oči.
     actions:
       - label: Chci vědět víc
         url: /contact
