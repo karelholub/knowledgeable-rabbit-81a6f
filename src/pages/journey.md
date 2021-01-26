@@ -58,8 +58,8 @@ sections:
     background: gray
     faq_items:
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Mapování průchodu službou vypadá jako hodně komplexní projekt. Jak to
+          vlastně celé probíhá?
         answer: >-
           ## Lorem ipsum
 
