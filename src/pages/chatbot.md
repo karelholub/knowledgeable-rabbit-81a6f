@@ -114,17 +114,28 @@ sections:
           - dolor sit amet
         type: faq_item
       - question: Jak je možné řešit komunikaci osobních nebo dokonce bankovních údajů?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          **Chatbot v HR: Zaujetí uchazečů**
+
+          Chcete na uchazeče zapůsobit jako inovativní společnost? Vystupujte
+          tak i v náborovém procesu. Chatbot na HR stránkách zaujme, zodpoví
+          jejich dotazy k benefitům a nasměruje je ke vhodné volné pozici.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Chatbot v bance: Důvěrnost dat**
+
+          Za branami internetového bankovnictví v zabezpečeném prostředí může
+          chatbot klientům zobrazit i data, která podléhají bankovnímu
+          tajemství. Klienty k individualizované nabídce pozveme
+          personalizovanou e-mailovou kampaní.
 
 
-          - Lorem ipsum
+          **Chatbot v pojišťovně: Indexace**
 
-          - dolor sit amet
+          Když přijde čas přehodnotit podmínky klientova pojištění (tzv.
+          indexace pojistiky), chatbot mu pošle nabídku e-mailem a pozve ho na
+          speciální microsite. Tam si klient vybere jednu z variant pojištění.
+          Chatbot mu zobrazí návrh smlouvy a klient ji může rovnou podepsat.
         type: faq_item
     type: section_faq
   - section_id: call-to-action
