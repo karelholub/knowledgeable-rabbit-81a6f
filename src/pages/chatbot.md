@@ -16,7 +16,7 @@ sections:
       neúnavně. Jeho výsledky uvidíte už za měsíc.
 
 
-      ### Pomáhá, prodává a poradí si s dokumenty
+      #### Pomáhá, prodává a poradí si s dokumenty
 
 
       Zvládne toho daleko víc, než jen odpovídat na dotazy. Posbírá informace,
@@ -24,14 +24,19 @@ sections:
       zákazník přeje.
 
 
-      ### Češtinu má v malíku
+
+
+      ![](https://www.flaticon.com/premium-icon/icons/svg/1698/1698535.svg)
+
+
+      #### Češtinu má v malíku
 
 
       Rozumí, co se po něm chce, a personalizovaný obsah zasazuje do
       smysluplných odpovědí. Výsledek vzbuzuje důvěru a zvyšuje konverze.
 
 
-      ### Zabydlí se u vás za pár dnů
+      #### Zabydlí se u vás za pár dnů
 
 
       Nasazení chatbota bude opravdu rychlé. S připravenými scénáři budete
