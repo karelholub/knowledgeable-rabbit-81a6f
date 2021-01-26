@@ -11,22 +11,26 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Dynamická komunikace
     content: >
+      ###
+
+
+      ###
+
+
       ### Proměňte jednostrannou distribuci informací ve skutečný dialog. Stačí
       v komunikaci s klienty využít naplno možností digitálních médií. Pomůžeme
       vám připravit pro každého z nich personalizované sdělení v interaktivní
       formě. Výsledky vám potvrdí, že se to vyplatí.
 
 
-
-
-      ### Sbírejte data a nebojte se je použít
+      #### Sbírejte data a nebojte se je použít
 
 
       Sbírejte přes digitální dokumenty data od svých klientů a rovnou je
       využijte při personalizované komunikaci. Osobní přístup prodává.
 
 
-      ### Komunikace, ne jen distribuce informací
+      #### Komunikace, ne jen distribuce informací
 
 
       Vyměňte nudná PDF za personalizované microsite s atraktivními prvky, jako
