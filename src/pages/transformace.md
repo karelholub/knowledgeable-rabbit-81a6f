@@ -58,17 +58,21 @@ sections:
       - question: >-
           Potřebujeme digitalizovat proces on-boardingu nových klientů. Jaký je
           správný postup a máte pro tento proces i vhodné nástroje?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          **Digitální onboarding **přináší nové možnosti, jak zákazníky oslovit,
+          ověřit a segmentovat. Ti pak můžou vyřídit svou transakci z domova se
+          stejnou nebo ještě lepší podporou ve srovnání s osobní návštěvou
+          pobočky. Úspora času je na obou stranách.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Do digitálního onboardingu dokážeme zapojit i nástroje pro **procesní
+          automatizaci**, strojové čtení textů, skenování dokumentů a osobních
+          dokladů včetně **biometrického ověření identity.**
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Díky validaci a personalizaci vstupních dat významně klesá chybovost
+          onboarding procesu a roste konverzní poměr i míra dokončení. Do cíle
+          se tak dostane daleko více lidí, budete řešit jen minimum případů,
+          které jste "poztráceli cestou".
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
