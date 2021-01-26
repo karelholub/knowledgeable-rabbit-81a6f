@@ -11,7 +11,13 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Co-browsing
     content: >
-      ### Technologie pro asistované nebo také sdílené procházení webu v sobě
+      ###
+
+
+      ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-co-browsing-final.jpg)
+
+
+      ## Technologie pro asistované nebo také sdílené procházení webu v sobě
       spojuje pohodlí nákupu z domova s osobní radou a asistencí, pro kterou
       lidé dříve museli do prodejny. Dovoluje tak firmám plný přechod do online
       prostředí, ať už se jedná o prodej zboží nebo služeb.
