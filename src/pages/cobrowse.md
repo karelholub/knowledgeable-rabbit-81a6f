@@ -73,9 +73,7 @@ sections:
           Systém následně zajistí propsání nové smlouvy do dalších systémů a
           odeslání kopie dokumentů na e-mail nebo poštovní adresu klienta.
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - question: Jak by nám mohl cobrowsing pomoc na kontaktním centru?
         answer: >-
           ## Lorem ipsum
 
