@@ -14,6 +14,12 @@ sections:
       - label: Chci Demo
         url: /contact
         style: secondary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    faq_items: []
+    type: section_faq
   - section_id: call-to-action
     type: section_cta
     title: Komunikujte lépe - s námi!
@@ -22,11 +28,5 @@ sections:
       - label: Začněte hned!
         url: /contact
         style: secondary
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    faq_items: []
-    type: section_faq
 template: landing
 ---
