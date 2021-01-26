@@ -75,8 +75,9 @@ sections:
           které jste "poztráceli cestou".
         type: faq_item
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Klienti nám často posílají konkurenční nabídky, které naši pracovníci
+          musí projít a navrhnout lepší. Umíte takový proces digitalizovat a
+          automatizovat?
         answer: >-
           ## Lorem ipsum
 
