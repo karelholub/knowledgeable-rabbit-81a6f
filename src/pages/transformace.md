@@ -17,14 +17,16 @@ sections:
       kanál, který klient preferuje, a na téma, které je pro něj relevantní.
 
 
-      ## Digitálně uvažující firma
+      #### Digitálně uvažující firma
 
 
       Provedeme vás celou tou zásadní změnou a naučíme vaše lidi myslet
       digitálně, bit by bit.
 
 
-      ## Digitální procesy
+
+
+      #### Digitální procesy
 
 
       Zapojíme digitalizaci do vašich interních procesů. Ty pak budou rychlejší
@@ -32,7 +34,7 @@ sections:
       vracet.
 
 
-      ## Digitální nástroje
+      #### Digitální nástroje
 
 
       Propojíme různé nástroje do uceleného systému a nastavíme je tak, aby
