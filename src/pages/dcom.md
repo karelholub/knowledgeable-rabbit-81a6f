@@ -11,10 +11,11 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Dynamická komunikace
     content: >
-      ###
 
 
-      ###
+      ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-digitalni-komunikace-final.jpg)
+
+
 
 
       ### Proměňte jednostrannou distribuci informací ve skutečný dialog. Stačí
