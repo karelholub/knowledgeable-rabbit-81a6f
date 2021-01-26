@@ -157,17 +157,29 @@ sections:
       - question: >-
           Pojišťovací procesy mají svá specifika. Je vhodné a možné použít
           dynamickou komunikaci i v takto specifickém prostředí?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          **Osobní kalkulačka**
+
+          Klient si pomocí posuvníků vybírá parametry svého pojištění na
+          personalizované microsite. Na pozadí výpočtu se zpracovávají informace
+          o klientově historii a promítají se do zobrazené nabídky.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Průvodce pojištěním**
+
+          Uzavřít pojištění online obvykle není na 3 kliknutí. Pro složitější
+          procesy je tu virtuální asistent, který klienta vede, pomáhá mu v
+          celkové orientaci i v jednotlivých krocích. Prokazatelně zvyšuje míru
+          dokončení.
 
 
-          - Lorem ipsum
+          **Průvodce pojistnou událostí**
 
-          - dolor sit amet
+          Nahlášení pojistné události je něco, s čím se běžný člověk setká
+          opravdu výjimečně. Ocení tedy digitálního asistenta, který ho celou
+          pojistnou událostí provede krok za krokem. Radí mu při vyplňování
+          žádosti a nastavuje jeho očekávání. Třeba kdy přijde vyjádření
+          pojišťovny a jaký může očekávat výsledek.
         type: faq_item
     type: section_faq
   - section_id: call-to-action
