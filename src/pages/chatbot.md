@@ -78,17 +78,25 @@ sections:
           mohli plynule navázat. Na jakékoli platformě.
         type: faq_item
       - question: Je možné efektivně použít chatbot pro back office procesy? Jak?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          **Změna parametrů pojistky**
+
+          Chatbot se klienta pojišťovny vyptá na vše potřebné, vygeneruje novou
+          pojistnou smlouvu k náhledu, nabídne digitální podpis a nakonec odešle
+          podepsanou pojistku fyzicky nebo přes digitální kanály.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Odklad splátek**
+
+          Chatbot ověří totožnost klienta, nabídne mu možnosti odkladu, vytvoří
+          mu návrh slouvy a nechá ho podepsat. Výsledný dokument pošle vybraným
+          kanálem a s klientem se rozloučí.
 
 
-          - Lorem ipsum
+          **Interní podpora**
 
-          - dolor sit amet
+          Na chatbota se můžou obrátit i interní zaměstnanci. Pomůže třeba
+          obchodníkům snadno zadat údaje o uzavřených zakázkách do systému.
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
