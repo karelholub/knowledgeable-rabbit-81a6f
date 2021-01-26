@@ -44,8 +44,8 @@ sections:
           zprávy
         type: faq_item
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Je možné automatizovat připomínací a re-marketingové procesy? A jde to
+          i napříč různými kanály a formáty?
         answer: >-
           ## Lorem ipsum
 
