@@ -50,17 +50,28 @@ sections:
     background: gray
     faq_items:
       - question: Jak se dá cobrowsing využít v obchodní síti?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          Poradce si s klientem domluví termín online schůzky a pošle mu
+          e-mailem pozvánku s unikátním odkazem na co-browsingové sezení. Sezení
+          probíhá jako videokonference doplněná o bezpečné sdílení dokumentu,
+          například na smlouvy o životním pojištění.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Poradce s klientem prochází smlouvu a společně doplňují údaje. Díky
+          video přenosu může poradce sledovat klientovy reakce. Když poradce
+          nezná odpověď na otázku klienta, může přizvat do co-browsingu kolegu
+          třeba z klientské podpory.
 
 
-          - Lorem ipsum
+          Když je vše vyplněno a dotazy zodpovězeny, klient může smlouvu
+          digitálně podepsat. Klikne na odkaz v e-mailu nebo SMS a ukáže se mu
+          prostor k podpisu na dotykové obrazovce nebo přes touchpad. Podpis
+          trvá jen několik vteřin a obchod je uzavřen. Přímo v co-browsingovém
+          sezení se objeví podepsaný dokument, který poradce uloží.
 
-          - dolor sit amet
+
+          Systém následně zajistí propsání nové smlouvy do dalších systémů a
+          odeslání kopie dokumentů na e-mail nebo poštovní adresu klienta.
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
