@@ -11,9 +11,15 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Digitální transformace
     content: >
-      ### Vyměnit dopis za e-mail nestačí. Digitální transformace je mnohem
-      hlubší proměna, která musí začít v hlavách lidí. Jejím výsledkem je dialog
-      s klientem plně podpořený interními daty a procesy, a to přes komunikační
+      ###
+
+
+      ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-digitalni-transformace-fin.jpg)
+
+
+      > Vyměnit dopis za e-mail nestačí. Digitální transformace je mnohem hlubší
+      proměna, která musí začít v hlavách lidí. Jejím výsledkem je dialog s
+      klientem plně podpořený interními daty a procesy, a to přes komunikační
       kanál, který klient preferuje, a na téma, které je pro něj relevantní.
 
 
@@ -22,8 +28,6 @@ sections:
 
       Provedeme vás celou tou zásadní změnou a naučíme vaše lidi myslet
       digitálně, bit by bit.
-
-
 
 
       #### Digitální procesy
