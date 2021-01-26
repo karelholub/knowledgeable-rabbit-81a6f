@@ -74,17 +74,19 @@ sections:
           odeslání kopie dokumentů na e-mail nebo poštovní adresu klienta.
         type: faq_item
       - question: Jak by nám mohl cobrowsing pomoc na kontaktním centru?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          Klient na webu vyplňuje digitální formulář smlouvy o pojištění a
+          narazí na něco, čemu nerozumí. Přímo ve formuláři tedy jedním
+          kliknutím požádá o asistenci.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Agent klientské podpory dostane upozornění a připojí se ke klientovi.
+          V reálném čase jsou spolu v kontaktu přes audio i video, agent zároveň
+          vidí dokument, který klient začal vyplňovat.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Agent může navigovat klienta k dalšímu postupu, nebo může převzít
+          ovládání a dokončit vyplnění dokumentu. Klient pak už je potvrdí svůj
+          souhlas pomocí digitálního podpisu.
         type: faq_item
     type: section_faq
   - section_id: call-to-action
