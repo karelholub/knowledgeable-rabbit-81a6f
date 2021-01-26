@@ -83,17 +83,7 @@ sections:
       - question: >-
           V dnešní době je složité a nákladné udržovat kontaktní místa pro naše
           klienty. Je možné přenést celé kontaktní místo do on-line prostředí?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: "Digitální transformace umožňuje přenesení kontaktních bodů firmy, typicky jejích poboček, do virtuálního prostředí. Významně tak ušetří prostředky na mzdy a na provoz budov.\nVe spojení s využitím\_[chatbota](http://copygeneral.cz/chatbot)\_a dalších nástrojů automatizace získáte kontaktní místo s neomezenou pracovní dobou pro vyřizování běžné komunikace s klienty. Tu vždy nastavujeme tak, aby byla skutečně personalizovaná, relevantní k potřebám a situaci klientů a hlavně dialogová, obousměrná.\n"
         type: faq_item
     type: section_faq
   - section_id: call-to-action
