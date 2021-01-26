@@ -44,7 +44,7 @@ sections:
       - label: Chci Demo
         url: /contact
         style: secondary
-  - section_id: Nechte se inspi
+  - section_id: Nechte se inspirovat
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
