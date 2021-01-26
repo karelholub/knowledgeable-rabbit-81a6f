@@ -117,17 +117,42 @@ sections:
       - question: >-
           Hodně dynamická je i komunikace v autosalonech a půjčovnách aut. Uměli
           byste pomoc i tady?
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          **Srovnávání a konfigurace modelů**
+
+          Výběr nového vozu si chce zákazník užít, jeho očekávání jsou vysoká.
+          Umožněte mu snadné porovnávání jednotlivých modelů a výběr jejich
+          konfigurací na několik kliknutí.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Asistent prodeje**
+
+          Umí modelovat možnosti financování pro jednotlivá auta a jejich
+          vybavení. Klient si sám pomocí posuvníků sestaví ideální variantu, jak
+          za své nové auto zaplatí a kontaktuje prodejce. V pracovní době s ním
+          obchod uzavře zaměstnanec salonu, mimo ni chatbot.
 
 
-          - Lorem ipsum
+          **Servis bez starostí**
 
-          - dolor sit amet
+          Na základě informací o konfiguraci vozu a jeho servisní historii se
+          automaticky vygeneruje servisní plán. Majitel k němu má přístup přes
+          servisní portál, ale sledovat ho nemusí. Před každou prohlídkou totiž
+          dostane včas upozornění kanálem, který si zvolil (e-mail, SMS,
+          zavolání) s nabídkou volných termínů. Stačí si vybrat.
+
+
+          **Hlídací pes**
+
+          Nadstavba servisního portálu, která za klienty hlídá i termíny
+          technické kontroly, upozorní, že je čas na nákup nové dálniční známky
+          nebo výměnu pneumatik.
+
+
+          **Manuál přesně pro mé auto**
+
+          Umožňuje stáhnout personalizovaný manuál pro konkrétní konfiguraci
+          klientova vozu.
         type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
