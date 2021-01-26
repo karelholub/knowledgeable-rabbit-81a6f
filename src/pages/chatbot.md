@@ -51,7 +51,7 @@ sections:
         style: secondary
   - section_id: Nechte se inspirovat
     title: Nechte se inspirovat
-    subtitle: lorem-ipsum
+    subtitle: ''
     background: gray
     faq_items: []
     type: section_faq
