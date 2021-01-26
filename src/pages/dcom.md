@@ -51,5 +51,11 @@ sections:
       - label: Začněte hned
         url: /contact
         style: secondary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    faq_items: []
+    type: section_faq
 template: landing
 ---
