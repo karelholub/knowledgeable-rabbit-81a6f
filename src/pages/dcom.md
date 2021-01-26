@@ -115,8 +115,8 @@ sections:
           svým pánem.
         type: faq_item
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Hodně dynamická je i komunikace v autosalonech a půjčovnách aut. Uměli
+          byste pomoc i tady?
         answer: >-
           ## Lorem ipsum
 
