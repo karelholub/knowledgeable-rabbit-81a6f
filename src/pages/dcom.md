@@ -49,8 +49,8 @@ sections:
     background: gray
     faq_items:
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Je možné dynamickou komunikaci využít pro procesy ve finančních
+          institucích? Jak?
         answer: >-
           ## Lorem ipsum
 
