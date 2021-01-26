@@ -16,7 +16,7 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: Nechte se inspirovat
-    subtitle: lorem-ipsum
+    subtitle: ''
     background: gray
     faq_items: []
     type: section_faq
