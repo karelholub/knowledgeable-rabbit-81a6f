@@ -56,8 +56,8 @@ sections:
     background: gray
     faq_items:
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Potřebujeme digitalizovat proces on-boardingu nových klientů. Jaký je
+          správný postup a máte pro tento proces i vhodné nástroje?
         answer: >-
           ## Lorem ipsum
 
