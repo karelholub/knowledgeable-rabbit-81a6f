@@ -11,13 +11,18 @@ sections:
     image_alt: App preview on a phone and tablet
     title: Customer journey mapping
     content: >
-      ### Mapování zákaznických cest je klíčové pro efektivní nastavení procesů
-      a komunikace. Nikdo už nenapíše do recenze: Tomu neuvěříte, čím jsem si s
+
+
+      ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-mapovani-customer-journey-fin2.jpg)
+
+
+      Mapování zákaznických cest je klíčové pro efektivní nastavení procesů a
+      komunikace. Nikdo už nenapíše do recenze: Tomu neuvěříte, čím jsem si s
       nimi musel projít...! Vy totiž budete přesně vědět, čím vaši klienti
       procházejí, a budete to mít plně pod kontrolou.
 
 
-      ## Nástroj pro cílenou změnu
+      #### Nástroj pro cílenou změnu
 
 
       Dobře sestavená mapa zákaznických cest je ideálním podkladem pro cílené
@@ -25,7 +30,7 @@ sections:
       kde klienti evidentně klopýtají, narážejí nebo odcházejí ke konkurenci.
 
 
-      ## Okno do duše zákazníků
+      #### Okno do duše zákazníků
 
 
       Nelze zlepšovat vše najednou. Díky sběru zpětné vazby v jednotlivých
@@ -34,7 +39,7 @@ sections:
       kde začít a čím pokračovat.
 
 
-      ## Žádné slepé uličky
+      #### Žádné slepé uličky
 
 
       Zákaznické cesty můžeme zmapovat pro firmu jako celek, pro vybranou službu
