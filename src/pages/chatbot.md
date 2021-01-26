@@ -99,8 +99,8 @@ sections:
           obchodníkům snadno zadat údaje o uzavřených zakázkách do systému.
         type: faq_item
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Může chatbot pomáhat našemu obchodu? Umí nahradit obchodníka v
+          některých situacích?
         answer: >-
           ## Lorem ipsum
 
