@@ -20,8 +20,9 @@ sections:
     background: gray
     faq_items:
       - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Potřebujeme automatizovat proces se zaručenou doručitelností
+          dokumentu. Když není možné doručit email, pak se musí dokument
+          vytisknout a poslat poštou. Jde to?
         answer: >-
           ## Lorem ipsum
 
