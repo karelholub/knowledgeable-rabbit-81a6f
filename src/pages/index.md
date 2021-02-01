@@ -29,6 +29,9 @@ sections:
           Sestavíme promyšlené scénáře, které kombinují e-mail, SMS a další
           kanály. Komunikace se spustí na základě popsaných událostí. A bude se
           také automaticky vyhodnocovat.
+
+
+          ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-komunikacni-kampane-fin.jpg)
         actions:
           - label: Chci vědět víc
             url: /features
