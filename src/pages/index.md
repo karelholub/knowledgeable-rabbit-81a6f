@@ -45,6 +45,9 @@ sections:
           Hromadná obchodní sdělení – to je něco, od čeho se klienti raději
           odhlásí. Dynamická komunikace je pravý opak: cílená, personalizovaná a
           přirozeně vybízející k reakci.
+
+
+          ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-digitalni-komunikace-final.jpg)
         actions:
           - label: Chci vědět víc
             url: /dcom
