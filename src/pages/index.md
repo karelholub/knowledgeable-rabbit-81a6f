@@ -40,7 +40,6 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Dynamická komunikace
-        image: images/gettyimages-1195693419-170667a.jpg
         image_alt: App users welcoming a new member
         content: >
           Hromadná obchodní sdělení – to je něco, od čeho se klienti raději
