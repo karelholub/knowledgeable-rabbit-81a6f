@@ -24,12 +24,14 @@ sections:
       napříč všemi kanály, snadno a efektivně
     features:
       - title: Automatizace komunikačních kampaní
-        image: images/gettyimages-1182604339-170667a.jpg
         image_alt: App preview on a phone and tablet
         content: >
           Sestavíme promyšlené scénáře, které kombinují e-mail, SMS a další
           kanály. Komunikace se spustí na základě popsaných událostí. A bude se
           také automaticky vyhodnocovat.
+
+
+          ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-komunikacni-kampane-fin.jpg)
         actions:
           - label: Chci vědět víc
             url: /features
@@ -38,12 +40,14 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Dynamická komunikace
-        image: images/gettyimages-1195693419-170667a.jpg
         image_alt: App users welcoming a new member
         content: >
           Hromadná obchodní sdělení – to je něco, od čeho se klienti raději
           odhlásí. Dynamická komunikace je pravý opak: cílená, personalizovaná a
           přirozeně vybízející k reakci.
+
+
+          ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-digitalni-komunikace-final.jpg)
         actions:
           - label: Chci vědět víc
             url: /dcom
