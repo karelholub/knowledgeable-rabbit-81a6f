@@ -19,7 +19,6 @@ import SectionPosts from './SectionPosts';
 import SectionPricing from './SectionPricing';
 import SectionReviews from './SectionReviews';
 import Layout from './Layout';
-import QuoteCarousel from './QuoteCarousel';
 
 export {
     Action,
@@ -33,7 +32,6 @@ export {
     FormField,
     Header,
     Icon,
-    QuoteCarousel,
     SectionContact,
     SectionContent,
     SectionCta,
@@ -58,7 +56,6 @@ export default {
     FormField,
     Header,
     Icon,
-    QuoteCarousel,
     SectionContact,
     SectionContent,
     SectionCta,

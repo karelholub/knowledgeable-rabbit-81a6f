@@ -141,8 +141,6 @@ sections:
             type: action
         type: feature_item
         image: images/8.jpg
-    component: QuoteCarousel
-    section_id: quote-carousel
   - section_id: reviews
     type: section_reviews
     background: white
