@@ -3,7 +3,7 @@ title: Moderní klientská komunikace je interaktivní
 subtitle: >-
   Dejte svým uživatelům možnost vytvářet kvalitní obsah bez starostí o dodržení
   dodržení grafických nebo obchodních manuálů
-author: src/data/authors/john-doe.yaml
+author: src/data/authors/karel-holub.yaml
 excerpt: >-
   Moderní personalizovaná klientská komunikace si nevystačí jen s hromadným nebo
   on-line zpracováním dokumentů, ale svoje nezastupitelné místo tu mají

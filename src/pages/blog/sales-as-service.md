@@ -4,7 +4,7 @@ subtitle: A interesting tale about Sales
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
   purus. 
-author: src/data/authors/jane-doe.yaml
+author: src/data/authors/karel-holub.yaml
 date: '2018-01-15'
 thumb_image: images/4_thumb.jpg
 image: images/4.jpg

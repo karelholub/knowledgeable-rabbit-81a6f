@@ -1,7 +1,7 @@
 ---
 title: 'Víte, že… se kvůli vám kácí lesy?'
 subtitle: Opravdu musíte všechno tisknout?
-author: src/data/authors/john-doe.yaml
+author: src/data/authors/martin-hofmeister.yaml
 excerpt: "Malá banka porazí ročně, i díky vašim výpisům,\_okolo 60 zdravých stromů. Jenom kvůli tomu, abyste si mohli přečíst, kolik máte na kontě peněz. Možná je čas na změnu."
 date: '2021-01-15'
 thumb_image: images/5_thumb.jpg

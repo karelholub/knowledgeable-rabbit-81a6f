@@ -1,6 +1,6 @@
 #colophon {
   background: $gray-700;
-  color: $gray-400;
+  color: $gray-100;
 
   h1,
   h2,
@@ -61,11 +61,13 @@
 
 .widget-nav {
   .menu-item {
+    color: $gray-300;
     margin-bottom: 0.75em;
   }
 
   .icon {
     & + :not(.order-first) {
+      color: $gray-300;
       margin-left: 0.75em;
     }
   }
@@ -73,6 +75,7 @@
 
 .footer-nav {
   .menu-item {
+    color: $gray-300;
     display: inline-block;
     margin: 0 0.75em 0.25em;
   }

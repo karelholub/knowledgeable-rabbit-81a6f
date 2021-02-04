@@ -1,8 +1,7 @@
 {
-    "base_font": "nunito-sans",
+    "base_font": "system-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/cgos.png",
         "logo_img_alt": "Lepší komunikace",
         "has_nav": true,
         "nav_links": [
@@ -38,9 +37,6 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/cgos.png",
-                "image_url": "/",
-                "image_alt": "Footer logo",
                 "content": "Lepší klientská komunikace\n"
             },
             {

@@ -3,7 +3,7 @@ title: Why You Should Set Big Goals
 excerpt: >-
   Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
   turpis egestas.
-author: src/data/authors/jane-doe.yaml
+author: src/data/authors/karel-holub.yaml
 date: '2019-03-10'
 thumb_image: images/12_thumb.jpg
 image: images/12.jpg

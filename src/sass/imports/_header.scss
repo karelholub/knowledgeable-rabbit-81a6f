@@ -1,6 +1,6 @@
 .site-header {
-  background: #fff;
-  color: $gray-700;
+  background: $cgos-blue-dark;
+  color: $gray-100;
   padding-bottom: 1em;
   padding-top: 1em;
 
@@ -22,7 +22,7 @@
 }
 
 .site-title {
-  color: $gray-700;
+  color: $gray-100;
   font-size: 1.33333em;
   font-weight: bold;
   line-height: 1.2;
@@ -56,14 +56,14 @@
 
   .site-navigation {
     .current-menu-item {
-      color: $gray-500;
+      color: $gray-100;
     }
 
     a:not(.button) {
       color: inherit;
   
       &:hover {
-        color: $gray-500;
+        color: $gray-200;
       }
     }
   }
@@ -93,7 +93,7 @@
 
   @supports (position: sticky) or (position: -webkit-sticky) {
     .site-header {
-      background: #fff;
+      background: $cgos-blue-dark;
       position: -webkit-sticky;
       position: sticky;
       top:0;
@@ -160,7 +160,7 @@
   }
 
   .site-navigation {
-    background: #fff;
+    background: #0039a6;
     box-sizing: border-box;
     height: 100vh;
     -webkit-overflow-scrolling: touch;
