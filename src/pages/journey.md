@@ -1,7 +1,7 @@
 ---
-title: Features
-meta_title: lorem-ipsum
-meta_description: lorem-ipsum
+title: Customer journey mapping
+meta_title: customer journey mapping
+meta_description: customer journey mapping
 canonical_url: lorem-ipsum
 no_index: false
 sections:
@@ -9,11 +9,9 @@ sections:
     type: section_content
     background: gray
     image_alt: App preview on a phone and tablet
-    title: Customer journey mapping
+    title: ''
     content: >
-
-
-      ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-mapovani-customer-journey-fin2.jpg)
+      ![](images/gettyimages-1174262839-170667a.jpg)
 
 
       Mapování zákaznických cest je klíčové pro efektivní nastavení procesů a

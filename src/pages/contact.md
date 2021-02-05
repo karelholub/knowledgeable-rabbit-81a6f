@@ -23,9 +23,11 @@ sections:
         label: Co vás zajímá
         default_value: Vyberte oblast zájmu
         options:
+          - Dávková komunikace
+          - On-demand komunikace
           - Interaktivní dokumenty
-          - Chatbot
           - Dynamická komunikace
+          - Chatbot
           - Komunikační mystery shopping
           - Automatizace komunikačních kampaní
       - input_type: textarea
