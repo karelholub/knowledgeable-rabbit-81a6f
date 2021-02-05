@@ -1,7 +1,7 @@
 ---
-title: Features
-meta_title: lorem-ipsum
-meta_description: lorem-ipsum
+title: Mystery shopping
+meta_title: mystery shopping
+meta_description: mystery shopping
 canonical_url: lorem-ipsum
 no_index: false
 sections:
@@ -9,9 +9,9 @@ sections:
     type: section_content
     background: gray
     image_alt: App preview on a phone and tablet
-    title: Komunikační mystery shopping
+    title: ''
     content: >
-      ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-komunikacni-mystery-shopping-fin.jpg)
+      ![](images/gettyimages-1174262839-170667a.jpg)
 
 
       > Zmapujeme klíčové scénáře vašich služeb a zaměříme se na cílenou,

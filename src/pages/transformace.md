@@ -1,7 +1,7 @@
 ---
-title: Features
-meta_title: lorem-ipsum
-meta_description: lorem-ipsum
+title: Digitální transformace
+meta_title: digitální transformace
+meta_description: digitální transformace
 canonical_url: lorem-ipsum
 no_index: false
 sections:
@@ -9,15 +9,12 @@ sections:
     type: section_content
     background: gray
     image_alt: App preview on a phone and tablet
-    title: Digitální transformace
+    title: ''
     content: >
-      ###
+      ![](images/gettyimages-1174262839-170667a.jpg)
 
 
-      ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-digitalni-transformace-fin.jpg)
-
-
-      > Vyměnit dopis za e-mail nestačí. Digitální transformace je mnohem hlubší
+      ## Vyměnit dopis za e-mail nestačí. Digitální transformace je mnohem hlubší
       proměna, která musí začít v hlavách lidí. Jejím výsledkem je dialog s
       klientem plně podpořený interními daty a procesy, a to přes komunikační
       kanál, který klient preferuje, a na téma, které je pro něj relevantní.

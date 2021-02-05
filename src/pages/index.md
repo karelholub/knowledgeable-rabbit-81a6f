@@ -1,9 +1,9 @@
 ---
-title: Home
+title: Lepší komunikace
 sections:
   - section_id: hero
     type: section_hero
-    image: images/gettyimages-914788020-170667a.jpg
+    image: images/hero.png
     image_alt: App preview
     title: Prostě lepší klientská komunikace
     content: >
@@ -29,25 +29,20 @@ sections:
           Sestavíme promyšlené scénáře, které kombinují e-mail, SMS a další
           kanály. Komunikace se spustí na základě popsaných událostí. A bude se
           také automaticky vyhodnocovat.
-
-
-          ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-komunikacni-kampane-fin.jpg)
         actions:
           - label: Chci vědět víc
-            url: /features
+            url: /automatizace
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
       - title: Dynamická komunikace
+        image : images/feature3.png
         image_alt: App users welcoming a new member
         content: >
           Hromadná obchodní sdělení – to je něco, od čeho se klienti raději
           odhlásí. Dynamická komunikace je pravý opak: cílená, personalizovaná a
           přirozeně vybízející k reakci.
-
-
-          ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-digitalni-komunikace-final.jpg)
         actions:
           - label: Chci vědět víc
             url: /dcom
@@ -56,8 +51,8 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Inteligentní chatbot
-        image: images/gettyimages-1206801125-170667a.jpg
-        image_alt: App user profile preview
+        image: images/feature2.png
+        image_alt: Automatická komunikace
         content: >
           Promluvme si jako lidi. Co na tom, že některé z nás naprogramovali,
           abychom naslouchali klientům, radili, pomáhali... ale i prodávali.
@@ -172,6 +167,12 @@ sections:
           udržovat. A přitom máme přístup ke špičkové technologii a k týmovým
           kapacitám, které bychom si interně nemohli dovolit.
         avatar: images/review3.jpg
+  - section_id: reference
+    type: section_content
+    title: ''
+    background: grey
+    content: > 
+      ### Důvěřují nám ![](images/reference.png)        
   - section_id: call-to-action
     type: section_cta
     title: Komunikujte lépe - s námi!
@@ -185,7 +186,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Poslední články
+    title: Naše články
     subtitle: >-
       přečtěte si detaily o našich řešeních, jejich konkrétní využití a
       inspirace i pro vaší společnost

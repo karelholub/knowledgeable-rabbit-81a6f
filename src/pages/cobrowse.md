@@ -1,7 +1,7 @@
 ---
 title: Features
-meta_title: lorem-ipsum
-meta_description: lorem-ipsum
+meta_title: co-browse
+meta_description: co-browse
 canonical_url: lorem-ipsum
 no_index: false
 sections:
@@ -9,14 +9,12 @@ sections:
     type: section_content
     background: gray
     image_alt: App preview on a phone and tablet
-    title: Co-browsing
+    title: ''
     content: >
 
+      ![](images/1.jpg)
 
-      ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-co-browsing-final.jpg)
-
-
-      > Technologie pro asistované nebo také sdílené procházení webu v sobě
+      ## Technologie pro asistované nebo také sdílené procházení webu v sobě
       spojuje pohodlí nákupu z domova s osobní radou a asistencí, pro kterou
       lidé dříve museli do prodejny. Dovoluje tak firmám plný přechod do online
       prostředí, ať už se jedná o prodej zboží nebo služeb.

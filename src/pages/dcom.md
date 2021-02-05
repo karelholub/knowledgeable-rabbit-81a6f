@@ -1,7 +1,7 @@
 ---
-title: Features
-meta_title: lorem-ipsum
-meta_description: lorem-ipsum
+title: Dynamicka komunikace
+meta_title: Dynamicka komunikace
+meta_description: Dynamicka komunikace
 canonical_url: lorem-ipsum
 no_index: false
 sections:
@@ -9,11 +9,11 @@ sections:
     type: section_content
     background: gray
     image_alt: App preview on a phone and tablet
-    title: Dynamická komunikace
+    title: ''
     content: >
 
 
-      ![](https://www.copygeneral.cz/foto/clanky/o-cg-banner-digitalni-komunikace-final.jpg)
+      ![](images/3_thumb.jpg)
 
 
 

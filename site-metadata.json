@@ -2,7 +2,6 @@
     "base_font": "system-sans",
     "palette": "blue",
     "header": {
-        "logo_img_alt": "Lepší komunikace",
         "has_nav": true,
         "nav_links": [
             {
@@ -37,6 +36,8 @@
         "sections": [
             {
                 "type": "footer_text",
+                "image" : "images/logo.png",
+                "image_url" : "https://www.copygeneral.cz/",
                 "content": "Lepší klientská komunikace\n"
             },
             {
@@ -115,5 +116,5 @@
         ],
         "content": "&copy; CGOS. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
     },
-    "title": "Klientská komunikace"
+    "title": "Lepší komunikace"
 }
