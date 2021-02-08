@@ -3,7 +3,7 @@ title: Lepší komunikace
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/banner-3.png
     image_alt: App preview
     title: Prostě lepší klientská komunikace
     content: >
@@ -17,7 +17,7 @@ sections:
         style: primary
   - section_id: features
     type: section_features
-    background: gray
+    background: grey
     title: Máme řešení pro každou situaci
     subtitle: >-
       Dokonale personalizovaná klientská komunikace pro všechny typy klientů,
@@ -37,7 +37,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Dynamická komunikace
-        image : images/feature3.png
+        image : images/dcom.png
         image_alt: App users welcoming a new member
         content: >
           Hromadná obchodní sdělení – to je něco, od čeho se klienti raději
@@ -51,7 +51,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Inteligentní chatbot
-        image: images/feature2.png
+        image: images/cgos_chbot_kh.png
         image_alt: Automatická komunikace
         content: >
           Promluvme si jako lidi. Co na tom, že některé z nás naprogramovali,
@@ -172,7 +172,9 @@ sections:
     title: ''
     background: grey
     content: > 
-      ### Důvěřují nám ![](images/reference.png)        
+      ### Důvěřují nám 
+      
+      ![](images/reference.png)        
   - section_id: call-to-action
     type: section_cta
     title: Komunikujte lépe - s námi!
