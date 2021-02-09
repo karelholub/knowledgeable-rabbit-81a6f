@@ -13,7 +13,7 @@ sections:
     content: >
 
 
-      ![](images/3_thumb.jpg)
+      ![](images/dcomBanner.png)
 
 
 

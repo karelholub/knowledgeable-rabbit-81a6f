@@ -12,7 +12,7 @@ sections:
     title: ''
     content: >
 
-      ![](images/1.jpg)
+      ![](images/coBrowseBanner.png)
 
       ## Technologie pro asistované nebo také sdílené procházení webu v sobě
       spojuje pohodlí nákupu z domova s osobní radou a asistencí, pro kterou

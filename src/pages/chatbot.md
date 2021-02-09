@@ -11,7 +11,7 @@ sections:
     image_alt: App preview on a phone and tablet
     title : ''
     content: >
-      ![](images/12.jpeg)
+      ![](images/chatbotBanner.png)
 
       ## Chatbot je kolega, kterého jste v týmu vždycky chtěli. Zvyšuje obraty v
       obchodě a snižuje náklady v back-office. Zaučí se rychle a pracuje
