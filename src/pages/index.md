@@ -3,7 +3,7 @@ title: Lepší komunikace
 sections:
   - section_id: hero
     type: section_hero
-    image: images/banner-3.png
+    image: 
     image_alt: App preview
     title: Prostě lepší klientská komunikace
     content: >
@@ -24,6 +24,7 @@ sections:
       napříč všemi kanály, snadno a efektivně
     features:
       - title: Automatizace komunikačních kampaní
+        image: images/automHP.png
         image_alt: App preview on a phone and tablet
         content: >
           Sestavíme promyšlené scénáře, které kombinují e-mail, SMS a další
@@ -37,7 +38,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Dynamická komunikace
-        image : images/dcom.png
+        image : images/dcomHP.png
         image_alt: App users welcoming a new member
         content: >
           Hromadná obchodní sdělení – to je něco, od čeho se klienti raději
@@ -51,7 +52,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Inteligentní chatbot
-        image: images/cgos_chbot_kh.png
+        image: images/chatbotHP.png
         image_alt: Automatická komunikace
         content: >
           Promluvme si jako lidi. Co na tom, že některé z nás naprogramovali,
@@ -81,7 +82,6 @@ sections:
             no_follow: false
             type: action
         type: feature_item
-        image: images/11.jpg
       - title: Komunikační mystery shopping
         content: >
           Každý po čase ztratí odstup od vlastního podnikání a je pro něj těžké
@@ -99,7 +99,6 @@ sections:
             no_follow: false
             type: action
         type: feature_item
-        image: images/gettyimages-1174262839-170667a.jpg
       - title: Digitální transformace
         content: >
           Velká změna v myšlení, která není snadná, ale přinese výsledky.
@@ -117,7 +116,7 @@ sections:
             no_follow: false
             type: action
         type: feature_item
-        image: images/gettyimages-1062562640-170667a.jpg
+        image: 
       - title: Co-browsing
         content: >
           Asistované procházení webu v sobě spojuje to nejlepší z online
@@ -135,7 +134,7 @@ sections:
             no_follow: false
             type: action
         type: feature_item
-        image: images/8.jpg
+        image: images/cobrowseHP.png
   - section_id: reviews
     type: section_reviews
     background: white
