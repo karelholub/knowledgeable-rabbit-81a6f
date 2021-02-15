@@ -51,10 +51,10 @@ sections:
         image: images/interaktivHP2.png
         image_alt: Interactive clients communication
         content: >
-          Doplnit text k interaktivu
+          Uvolněte ruce obchodníkům a poradcům, kteří pro vás pracují, a dovolte jim věnovat se naplno jednání s klienty. Ať nemusí řešit obsahové či vzhledové otázky šablon, soulad nabídek s interními pravidly nebo modelace a propočty. Díky přímému napojení klientské komunikace na vnitřní procesy ušetříte až 50 % nákladů.
         actions:
           - label: Chci vědět víc
-            url: /automatizace
+            url: /interaktiv
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -74,7 +74,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Dynamická komunikace
-        image : images/dcomHP.png
+        image : images/dcomHP2.png
         image_alt: App users welcoming a new member
         content: >
           Hromadná obchodní sdělení – to je něco, od čeho se klienti raději
