@@ -8,7 +8,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image_alt: App preview on a phone and tablet
+    image_alt: mystery shopping
     title: ''
     content: >
       ![](images/gettyimages-1174262839-170667a.jpg)

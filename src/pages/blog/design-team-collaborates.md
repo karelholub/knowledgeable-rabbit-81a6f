@@ -1,17 +1,21 @@
 ---
-title: How Our Design Team Collaborates
+title: Zkuste si koupit vlastní auto
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Běžte do své prodejny nebo kanceláře pobočkové sítě a zkuste si, jak se u vás nakupuje
 author: src/data/authors/karel-holub.yaml
-date: '2019-03-24'
-thumb_image: images/11_thumb.jpg
-image: images/11.jpg
+date: '2020-12-24'
+thumb_image: images/car.jpg
+image: images/car.jpg
 template: post
 ---
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Bavil jsem se s majitelem sítě autosalonů renomované značky. 
+> "Doba je složitá a konkurence velká. Značka sice pořád táhne, ale je to hodně o komunikaci a musíme si držet každého klienta."
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Tak jsem si u nich zkusil koupit auto. A pro jistotu jsem si stejný testík udělal u několika značek a to jak u nových, tak ojetých vozů. 
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+Vozy v hodnotě 900 tis - 1,3M, skladovky a žádné zvláštní požadavky. Žádné zákeřné dotazy. V podstatě jsem si jen chtěl vyzkoušet, jak hladký prodejní proces umí nastavit a jakou klientskou zkušenost to ve mě zanechá.
+
+Shrnul bych to asi tak - i můj prodejce bot na běhání se o mě stará daleko lépe, než co předvedl personál některých autíčkářů. 
+
+A moje doporučení - inovace, nové služby a produkty mají smysl jen tehdy, když je **přijme a aktivně používá celá firma** od CEO až po recepční. Zkuste si pravidelně projít váš obchodní proces z pohledu klienta. Získáte víc námětů na zlepšení něž za 100 hodin brainstormingů v zasedačce.

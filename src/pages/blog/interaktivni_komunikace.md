@@ -34,7 +34,7 @@ Nástroje pro interaktivní komunikaci dokážete určitě využít i směrem do
 
 ## Klíčové funkce
 
-*   **Centralizovaná knihovna a správa šablon -** všechny podnikové šablony přehledně na jednom místě. Třídení podle typu dokumentů nebo obchodních / komunikačních scénářů. Přístup k jednotlivým typům šablon nebo samotným šablonám je řízený uživatelskými právy. Stejně tak mohou uživatelská práva definovat, jaká oblast dokumentu je přístupná pro úpravy. Multikanálové šablony umožňují uživateli nebo interní logice vybrat nejlepší distribuční kanál a snadno tak přepínat například mezi tiskem a emailem. Šablony mohou být vícejazyčné a uživatel tak může snadno přepínat mezi jazyky a nemusí dokonce ani rozumět obsahu - pouze doplní povinná pole a šablona sama zajistí správnou jazykovou mutaci (včetně psaní z prava do leva).
+*   **Centralizovaná knihovna a správa šablon** - všechny podnikové šablony přehledně na jednom místě. Třídení podle typu dokumentů nebo obchodních / komunikačních scénářů. Přístup k jednotlivým typům šablon nebo samotným šablonám je řízený uživatelskými právy. Stejně tak mohou uživatelská práva definovat, jaká oblast dokumentu je přístupná pro úpravy. Multikanálové šablony umožňují uživateli nebo interní logice vybrat nejlepší distribuční kanál a snadno tak přepínat například mezi tiskem a emailem. Šablony mohou být vícejazyčné a uživatel tak může snadno přepínat mezi jazyky a nemusí dokonce ani rozumět obsahu - pouze doplní povinná pole a šablona sama zajistí správnou jazykovou mutaci (včetně psaní z prava do leva).
 
 <!---->
 
@@ -46,7 +46,7 @@ Nástroje pro interaktivní komunikaci dokážete určitě využít i směrem do
 
 <!---->
 
-*   **Průvodci **- některé dokumenty mohou být opravdu náročné na vyplnění a mohou obsahovat množství podmínek a logických vazeb, které je velmi obtížné realizovat na klasickém formuláři a zachovat přitom uživatelskou přívětivost a nízkou chybovost. Proto využíváme přehledné průvodce vyplněním, kteří umí uživatele provést skrze sekvenci kroků a operací bez nutnosti detailní znalosti logiky a pravidel, která běží na pozadí. 
+*   **Průvodci** - některé dokumenty mohou být opravdu náročné na vyplnění a mohou obsahovat množství podmínek a logických vazeb, které je velmi obtížné realizovat na klasickém formuláři a zachovat přitom uživatelskou přívětivost a nízkou chybovost. Proto využíváme přehledné průvodce vyplněním, kteří umí uživatele provést skrze sekvenci kroků a operací bez nutnosti detailní znalosti logiky a pravidel, která běží na pozadí. 
 
 <!---->
 
@@ -54,7 +54,7 @@ Nástroje pro interaktivní komunikaci dokážete určitě využít i směrem do
 
 <!---->
 
-*   **Automatizace **- Interaktiv běží nad komplexní automatizační a integrační platformou. Automatizace zvyšuje efektivitu práce se systémem a zbavuje uživatele starostí o přidružené procesy. Automatizace dokáže zajistit například konsolidaci zásilek, jejich třídění nebo prioritizaci. Zajišťuje také například archivaci dokumentů, synchronizaci dat na zdrojové systémy nebo distribuci dokumentů na schvalovatele a jejich notifikace.
+*   **Automatizace** - Interaktiv běží nad komplexní automatizační a integrační platformou. Automatizace zvyšuje efektivitu práce se systémem a zbavuje uživatele starostí o přidružené procesy. Automatizace dokáže zajistit například konsolidaci zásilek, jejich třídění nebo prioritizaci. Zajišťuje také například archivaci dokumentů, synchronizaci dat na zdrojové systémy nebo distribuci dokumentů na schvalovatele a jejich notifikace.
 
 <!---->
 

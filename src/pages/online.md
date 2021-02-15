@@ -1,7 +1,7 @@
 ---
-title: Interaktivní komunikace
-meta_title: interaktivní komunikace
-meta_description: interaktivní komunikace
+title: Online zpracování dokumentů
+meta_title: online zpracování dokumentů
+meta_description: online zpracování dokumentů
 canonical_url: lorem-ipsum
 no_index: false
 sections:
@@ -14,10 +14,10 @@ sections:
       ![](images/interaktivBanner2.png)
 
 
-      > Interaktiv je platforma pro řízení obchodního vztahu s klientem osobně i online. Je to promyšlený nástroj pro centralizovanou tvorbu a správu klientských dokumentů, který se postará jak o propočty nabídek, cross-sell a up-sell, tak i o sběr a synchronizaci dat o klientech a obchodních případech. 
+      > online zpracování klientské komunikace - dopsat 
 
 
-      #### Jen obchod, žádné rozptylování
+      #### Dopsat
 
 
       Interaktiv se za vaše obchodníky či poradce postará o korporátní design a textaci dokumentů. Pohlídá soulad s právními předpisy i s vaší cenovou politikou a schvalovacími procesy.
