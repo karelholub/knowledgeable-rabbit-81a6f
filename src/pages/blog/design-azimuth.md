@@ -1,17 +1,19 @@
 ---
-title: Behind the Scenes - The Design of Azimuth
+title: Lidová tvořivost
 excerpt: >-
-  Quisque ultrices metus sed libero ultricies condimentum. Suspendisse ut
-  faucibus purus. Mauris at pharetra risus.
+  Klidně něco pošlou a nedoplní to do CRM a my pak jak idioti dohledáváme kontaktní údaje nebo podmínky, co vůbec klientovi nabídli.
 author: src/data/authors/karel-holub.yaml
-date: '2018-01-09'
+date: '2021-01-09'
 thumb_image: images/6_thumb.jpg
 image: images/6.jpg
 template: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sagittis convallis bibendum. Aenean ac massa vitae lectus semper iaculis. Pellentesque urna nibh, volutpat ac accumsan a, malesuada non arcu. Ut mi eros, facilisis eget dictum quis, semper ut velit. Phasellus vulputate, odio eu consequat sollicitudin, arcu nulla auctor elit, vitae placerat elit elit sit amet ipsum. Curabitur pulvinar leo ac laoreet semper. Integer ut libero dui. Ut id nunc ornare, ornare tellus eu, rutrum ipsum. Donec molestie iaculis tristique. Quisque euismod commodo leo ac ultrices.
+"Nejhorší je taková ta lidová tvorba. Máme nějakých 35-40 poradců, kteří pracují s klienty a posílají jim docela dost dokumentů. Na to mají firemní šablony, jenže oni si je postupně upravují, někdo je používá dva roky bez aktualizace, mají tam blbě kontaktní údaje a spoustu další hrůzy. Navíc klidně něco pošlou a nedoplní to do CRM a my pak jak idioti dohledáváme kontaktní údaje nebo podmínky, co vůbec klientovi nabídli. "
 
-Morbi ut odio interdum, vestibulum neque eu, dictum massa. Maecenas fermentum, metus ut maximus pellentesque, nibh sem venenatis purus, eget ultricies elit lorem finibus justo. Nullam a faucibus diam. Mauris nisi ligula, fringilla a arcu eu, commodo euismod tellus. Sed blandit massa vel ligula ullamcorper fermentum. Praesent ex justo, ultrices ac imperdiet id, auctor quis nulla. Nunc eu blandit nulla. In faucibus pellentesque libero. Sed facilisis lectus id tellus tempus vestibulum eget eget felis. Nulla facilisi. Sed sed sem tristique, pellentesque diam eu, sollicitudin massa.
+Majitel pobočkové sítě hezky popsal situaci, kterou vídáme ve větších i menších firmách. A přitom řešení je opravdu jednoduché a dostupné.
 
-Ut lacus ante, venenatis placerat pulvinar eu, molestie in ipsum. Phasellus suscipit ipsum in pulvinar ultricies. Pellentesque tempus lorem massa, non venenatis nisl facilisis a. Curabitur nec elit sapien. In eu commodo sem. Mauris in magna aliquet, vestibulum libero et, mollis velit. Curabitur ut nisi id est accumsan consectetur. Aliquam sit amet magna quis nisi cursus egestas. Maecenas quis vulputate nisi, sit amet tincidunt lectus. Duis sit amet ipsum ac eros congue sodales. Mauris est purus, tempus eget odio sed, auctor eleifend ante. Curabitur vitae ipsum varius, ultricies ipsum at, fermentum orci. Fusce suscipit fermentum tellus ut euismod. Nullam vestibulum auctor sagittis. Aenean et nisl vulputate justo porta aliquet.
+Náš portál pro práci s interaktivními dokumenty vám přinese centrální správu šablon, automatizaci obchodních a komunikačních procesů, uživatelskou přívětivost a v neposlední řadě bezpečné zadávání a synchronizaci dat o klientech nebo obchodních případech. 
+Už nikdy z firmy neodejde dokument, který kazí image značky nebo dokonce odporujeme právním předpisům, cenové politice nebo obchodní logice. A už nikdy se vám neztratí kontaktní údaje nebo jiná klientská data. 
+
+> Vyzkoušejte s námi pilotní projekt na pár dokumentech a uživatelích a uvidíte, že už nikdy nebudete chtít pracovat jinak.

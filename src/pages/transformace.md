@@ -8,7 +8,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image_alt: App preview on a phone and tablet
+    image_alt: digital transformation
     title: ''
     content: >
       ![](images/gettyimages-1174262839-170667a.jpg)
@@ -75,12 +75,12 @@ sections:
           Klienti nám často posílají konkurenční nabídky, které naši pracovníci
           musí projít a navrhnout lepší. Umíte takový proces digitalizovat a
           automatizovat?
-        answer: "Potenciální klienty oslovíte personalizovanou e-mailovou kampaní s odkazem na osobní microsite vytvořenou v\_[nástroji pro dynamickou komunikaci](http://copygeneral.cz/automatizace-komunikacnich-kampani). Cílová stránka obsahuje personalizovanou nabídku a také formulář, přes který klient nahraje scan své smlouvy se stávajícím poskytovatelem služeb.\n\nSystém na pozadí smlouvu strojově zpracuje, vyčte z ní základní parametry, připraví personalizovanou konkurenční nabídku a předá ji klientovi jeho preferovaným distribučním kanálem.\nCelý proces běží automaticky bez lidského zásahu a trvá řádově jednotky vteřin. U většiny typů smluv dosahuje přesnosti ve vysokých desítkách procent. Kontaktnímu centru systém předá jen minimální počet složitých případů.\n"
+        answer: "Potenciální klienty oslovíte personalizovanou e-mailovou kampaní s odkazem na osobní microsite vytvořenou v\_[nástroji pro dynamickou komunikaci](/automatizace). Cílová stránka obsahuje personalizovanou nabídku a také formulář, přes který klient nahraje scan své smlouvy se stávajícím poskytovatelem služeb.\n\nSystém na pozadí smlouvu strojově zpracuje, vyčte z ní základní parametry, připraví personalizovanou konkurenční nabídku a předá ji klientovi jeho preferovaným distribučním kanálem.\nCelý proces běží automaticky bez lidského zásahu a trvá řádově jednotky vteřin. U většiny typů smluv dosahuje přesnosti ve vysokých desítkách procent. Kontaktnímu centru systém předá jen minimální počet složitých případů.\n"
         type: faq_item
       - question: >-
           V dnešní době je složité a nákladné udržovat kontaktní místa pro naše
           klienty. Je možné přenést celé kontaktní místo do on-line prostředí?
-        answer: "Digitální transformace umožňuje přenesení kontaktních bodů firmy, typicky jejích poboček, do virtuálního prostředí. Významně tak ušetří prostředky na mzdy a na provoz budov.\nVe spojení s využitím\_[chatbota](http://copygeneral.cz/chatbot)\_a dalších nástrojů automatizace získáte kontaktní místo s neomezenou pracovní dobou pro vyřizování běžné komunikace s klienty. Tu vždy nastavujeme tak, aby byla skutečně personalizovaná, relevantní k potřebám a situaci klientů a hlavně dialogová, obousměrná.\n"
+        answer: "Digitální transformace umožňuje přenesení kontaktních bodů firmy, typicky jejích poboček, do virtuálního prostředí. Významně tak ušetří prostředky na mzdy a na provoz budov.\nVe spojení s využitím\_[chatbota](/chatbot)\_a dalších nástrojů automatizace získáte kontaktní místo s neomezenou pracovní dobou pro vyřizování běžné komunikace s klienty. Tu vždy nastavujeme tak, aby byla skutečně personalizovaná, relevantní k potřebám a situaci klientů a hlavně dialogová, obousměrná.\n"
         type: faq_item
     type: section_faq
   - section_id: call-to-action
