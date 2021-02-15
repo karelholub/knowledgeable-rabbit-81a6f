@@ -30,7 +30,7 @@ sections:
           Doplnit text o hromadném zpracování
         actions:
           - label: Chci vědět víc
-            url: /automatizace
+            url: /batch
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -42,7 +42,7 @@ sections:
           Doplnit text o on-line procesu klientské komunikace
         actions:
           - label: Chci vědět víc
-            url: /automatizace
+            url: /online  
             style: secondary
             has_icon: true
             icon: arrow-right
