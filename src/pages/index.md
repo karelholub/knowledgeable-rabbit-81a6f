@@ -23,8 +23,44 @@ sections:
       Dokonale personalizovaná klientská komunikace pro všechny typy klientů,
       napříč všemi kanály, snadno a efektivně
     features:
+      - title: Dávkové zpracování klientské komunikace
+        image: images/batchHP2.png
+        image_alt: Batch processing of clients communication
+        content: >
+          Doplnit text o hromadném zpracování
+        actions:
+          - label: Chci vědět víc
+            url: /automatizace
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+      - title: On-line klientká komunikace
+        image: images/onlineHP2.png
+        image_alt: Online clients communication processing
+        content: >
+          Doplnit text o on-line procesu klientské komunikace
+        actions:
+          - label: Chci vědět víc
+            url: /automatizace
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+      - title: Interaktivní klientská komunikace
+        image: images/interaktivHP2.png
+        image_alt: Interactive clients communication
+        content: >
+          Doplnit text k interaktivu
+        actions:
+          - label: Chci vědět víc
+            url: /automatizace
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
       - title: Automatizace komunikačních kampaní
-        image: images/automHP.png
+        image: images/automHP2.png
         image_alt: App preview on a phone and tablet
         content: >
           Sestavíme promyšlené scénáře, které kombinují e-mail, SMS a další
@@ -52,7 +88,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Inteligentní chatbot
-        image: images/chatbotHP.png
+        image: images/chatbotHP2.png
         image_alt: Automatická komunikace
         content: >
           Promluvme si jako lidi. Co na tom, že některé z nás naprogramovali,
@@ -134,7 +170,7 @@ sections:
             no_follow: false
             type: action
         type: feature_item
-        image: images/cobrowseHP.png
+        image: images/cobrowseHP2.png
   - section_id: reviews
     type: section_reviews
     background: white
