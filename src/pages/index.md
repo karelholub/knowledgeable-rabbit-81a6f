@@ -18,16 +18,12 @@ sections:
   - section_id: features
     type: section_features
     background: grey
-    title: Máme řešení pro každou situaci
-    subtitle: >-
-      Dokonale personalizovaná klientská komunikace pro všechny typy klientů,
-      napříč všemi kanály, snadno a efektivně
     features:
       - title: Dávkové zpracování klientské komunikace
         image: images/batchHP2.png
         image_alt: Batch processing of clients communication
         content: >
-          Doplnit text o hromadném zpracování
+          Naše integrační a automatizační platforma se dokáže jednoduše a bezpečně napojit na široké spektrum datových zdrojů, získat data potřebná pro produkci a personalizaci dokumentů, následně vyprodukovat samotné dokumenty v požadovaných formátech a nakonec zajistit jejich distribuci napříč fyzickými i digitálními kanály.
         actions:
           - label: Chci vědět víc
             url: /batch
@@ -39,7 +35,7 @@ sections:
         image: images/onlineHP2.png
         image_alt: Online clients communication processing
         content: >
-          Doplnit text o on-line procesu klientské komunikace
+          Generujte personalizované dokumenty kdy chcete (potřebujete) a z aplikací, na které jste zvyklí. Naše platforma pro automatickou produkci a distribuci personalizované komunikace se umí bezpečně propojit s vašimi systémy a postará se kompletně o procesy spojené s generováním dokumentů a jejich odesláním ať už ve fyzické nebo digitální formě.
         actions:
           - label: Chci vědět víc
             url: /online  

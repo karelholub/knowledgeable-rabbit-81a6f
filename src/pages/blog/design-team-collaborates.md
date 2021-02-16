@@ -18,4 +18,4 @@ Vozy v hodnotě 900 tis - 1,3M, skladovky a žádné zvláštní požadavky. Ž�
 
 Shrnul bych to asi tak - i můj prodejce bot na běhání se o mě stará daleko lépe, než co předvedl personál některých autíčkářů. 
 
-A moje doporučení - inovace, nové služby a produkty mají smysl jen tehdy, když je **přijme a aktivně používá celá firma** od CEO až po recepční. Zkuste si pravidelně projít váš obchodní proces z pohledu klienta. Získáte víc námětů na zlepšení něž za 100 hodin brainstormingů v zasedačce.
+A moje doporučení - inovace, nové služby a produkty mají smysl jen tehdy, když je **přijme a aktivně používá celá firma** od CEO až po recepční. Zkuste si pravidelně projít váš obchodní proces z pohledu [klienta](/mystery). Získáte víc námětů na zlepšení něž za 100 hodin brainstormingů v zasedačce.
