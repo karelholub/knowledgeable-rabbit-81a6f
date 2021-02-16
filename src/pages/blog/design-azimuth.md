@@ -13,7 +13,7 @@ template: post
 
 Majitel pobočkové sítě hezky popsal situaci, kterou vídáme ve větších i menších firmách. A přitom řešení je opravdu jednoduché a dostupné.
 
-Náš portál pro práci s interaktivními dokumenty vám přinese centrální správu šablon, automatizaci obchodních a komunikačních procesů, uživatelskou přívětivost a v neposlední řadě bezpečné zadávání a synchronizaci dat o klientech nebo obchodních případech. 
+Náš portál pro práci s [interaktivními dokumenty](/interaktiv) vám přinese centrální správu šablon, automatizaci obchodních a komunikačních procesů, uživatelskou přívětivost a v neposlední řadě bezpečné zadávání a synchronizaci dat o klientech nebo obchodních případech. 
 Už nikdy z firmy neodejde dokument, který kazí image značky nebo dokonce odporujeme právním předpisům, cenové politice nebo obchodní logice. A už nikdy se vám neztratí kontaktní údaje nebo jiná klientská data. 
 
 > Vyzkoušejte s námi pilotní projekt na pár dokumentech a uživatelích a uvidíte, že už nikdy nebudete chtít pracovat jinak.

@@ -79,7 +79,7 @@
   }
 
   .cell {
-    text-align: center;
+    text-align: left;
   }
 }
 
@@ -207,20 +207,20 @@
   .block-header {
     .block-title {
       &:last-child {
-        margin-bottom: 1.33333em;
+        margin-bottom: 0.33333em;
       }
     }
 
     .block-subtitle {
       &:last-child {
-        margin-bottom: 2.22222em;
+        margin-bottom: 0;
       }
     }
   }
 }
 
 .block-item {
-  margin-bottom: 1.66667em;
+  margin-bottom: 0;
 
   &:last-child {
     margin-bottom: 0;
