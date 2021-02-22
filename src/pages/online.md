@@ -11,7 +11,7 @@ sections:
     image_alt: Interactive
     title: ''
     content: >
-      ![](images/interaktivBanner2.png)
+      ![](images/onlineBanner2.png)
 
 
       > online zpracování klientské komunikace - dopsat 
