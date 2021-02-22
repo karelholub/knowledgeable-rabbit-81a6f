@@ -23,7 +23,7 @@ sections:
         image: images/batchHP2.png
         image_alt: Batch processing of clients communication
         content: >
-          Naše integrační a automatizační platforma se dokáže jednoduše a bezpečně napojit na široké spektrum datových zdrojů, získat data potřebná pro produkci a personalizaci dokumentů, následně vyprodukovat samotné dokumenty v požadovaných formátech a nakonec zajistit jejich distribuci napříč fyzickými i digitálními kanály.
+          Umíme efektivně a bez chyb zpracovat obrovské množství dat, která přetavíme do personalizovaných dokumentů. Nezáleží na tom, jestli potřebujete rozeslat desítky tisíc uvítacích balíčků, oslovit stovky tisíc lidí zajímavou nabídkou nebo doručit klientům miliony výpisů z účtů.
         actions:
           - label: Chci vědět víc
             url: /batch
@@ -31,7 +31,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: On-line klientká komunikace
+      - title: On-line klientská komunikace
         image: images/onlineHP2.png
         image_alt: Online clients communication processing
         content: >
