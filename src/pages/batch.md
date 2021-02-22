@@ -11,34 +11,34 @@ sections:
     image_alt: Interactive
     title: ''
     content: >
-      ![](images/interaktivBanner2.png)
+      ![](images/batchBanner2.png)
 
 
-      > Hromadné zpracování klientské komunikace - dopsat 
+      > Naše platforma se dokáže jednoduše a bezpečně napojit na takřka jakýkoli datový zdroj dat, získat potřebná data, vyprodukovat dávku (batch) personalizovaných dokumentů v požadovaných formátech a zajistit jejich distribuci prostřednictvím fyzických i digitálních kanálů. 
 
 
-      #### Dopsat
+      #### Batch od batche lepší výsledky
 
 
-      Interaktiv se za vaše obchodníky či poradce postará o korporátní design a textaci dokumentů. Pohlídá soulad s právními předpisy i s vaší cenovou politikou a schvalovacími procesy.
+      Stanovíte si ukazatele efektivity, které jsou pro vás klíčové, a my celý proces optimalizujeme tak, abyste jich snadno dosáhli. A brzy je i překonali.
 
 
-      #### Obchodní a provozní automatizace 
+      #### Šablony jsou základem  
 
 
-      Interaktiv pod sebe přebírá obchodní i provozní procesy a automatizuje je. Nabídne verzi smlouvy podle bonity klienta a podepsané dokumenty předá k internímu schválení. Pak je automaticky rozešle všem aktérům, elektronicky nebo v papírové podobě.
-
-
-
-      #### Omnikanálová distribuce
-
-
-      Můžete využít plnou sílu omnikanálové distribuce i tam, kde jste si to dosud nedovedli ani představit - pro jednotlivé procesy. E-mail, SMS, Viber, WhatsApp, microsite a další “kanály” odešleme klientovi podle komunikačního scénáře a podle jeho reakce mu odpovíme. Veškerou komunikaci řídíme, vyhodnocujeme a přizpůsobujeme chování klienta podle person. 
+      Zpracování hromadné komunikace nikdy nebude opravdu efektivní bez kvalitních šablon. Klientské dokumenty vám navrhneme nebo přepracujeme s důrazem na principy funkčního designu, dobře si ohlídáme i soulad formy s obsahem.
 
 
 
+      #### Papírově i digitálně za jednu cenu 
 
-      > Interaktiv přináší do praxe revoluční funkcionality a jasnou úsporu času i nákladů. Prostor pro chybu v obsahu dokumentů i v procesu jejich schvalování a distribuce snižuje na úroveň, kterou oceňují ředitelé. Obchodníkům se zase líbí praktická práce s interaktivními dokumenty, díky které stoupá jejich prestiž v očích klientů.
+
+      Většinu klientů zastihnete na e-mailu, někteří ale dál preferují klasický dopis. Naše šablony podporují multikanálovou komunikaci, jednu a tutéž šablonu tak můžete použít pro produkci tiskových i digitálních výstupů. A šetřit náklady. 
+
+
+
+
+      > Systém pro dávkové zpracování klientské komunikace postavíme na míru přímo u vás a budeme se starat o jeho efektivní provoz. Zaškolíme váš tým a budeme jeho podporou. A nebo vám klientskou korespondenci dodáme kompletně jako službu na naší cloudové platformě postavené nad špičkovou technologií od společnosti Quadient.
     actions:
       - label: Chci vědět víc
         url: /contact
@@ -48,39 +48,35 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: Nechte se inspirovat
-    subtitle: ''
+    subtitle: 'Hromadné zpracování personalizované komunikace může být až překvapivě snadné, když ho svěříte někomu, kdo dobře ví, co dělá, a podobných projektů absolvoval desítky. Jaké výzvy jsme se naučili překonávat?'
     background: gray
     faq_items:
       - question: >-
-          Jak by interaktivní dokumenty mohly pomoc s budováním image a dobré pověsti finančních poradců
+          Potřebujeme nastavit zpracování dávek tak, aby se všechno stihlo. Umí to váš systém?
         answer: >
-          Finanční poradci potřebují se svými klienty projít relativně velké množství dokumentů a vyplnit údaje, které se často opakují. Díky propracovanému a konzistentnímu vzhledu dokumentů a interaktivní práci s nimi klient vnímá profesionalitu samotného poradce a inovativnost společnosti, kterou reprezentuje.
+          S objemem dat roste i doba potřebná na jejich zpracování. Umíme nastavit systém tak, aby se data zpracovala včas a nedocházelo ke kolizím
         type: faq_item
       - question: >-
-          Finanční poradenství je hodně konkurenční obor. Jaké výhody poskytuje interaktivní komunikace v konkurenčním boji?
+          Některé naše systémy využívají starší datové formáty. Umíte si s nimi poradit?
         answer: >
-          Zejména franšízové poradenské společnosti získávají díky Interaktivu silný technologický argument pro nezávislé poradce, proč spolupracovat právě s nimi. Svým lidem doslova posunete startovní čáru o pořádný kus před zbytek trhu.
+          Pracujeme i s archaickými formáty datových souborů, které a mohou být složité na zpracování.
         type: faq_item
       - question: >-
-          Potřebujeme zjednodušit a automatizovat administrativní procesy pro finanční poradce.
+          Některé datové soubory, které potřebujeme zpracovat mohou obsahovat chyby. Umíte to ošetřit?
         answer: >  
-          Administrativní proces finančního poradce obvykle začíná záznamem z jednání s klientem, které slouží jednak ke sběru základních dat a dále jako podklad pro analýzu jeho potřeb a další kolo jednání. Interaktivní dokumenty poradce sběrem údajů provedou tak, aby získal opravdu vše potřebné pro vyhodnocení klientovy finanční situace.
+          Víme, jak ošetřit datové vstupy, aby se nezadrhl proces zpracování, a jak případné chyby logovat a reportovat.
       - question: >-
-          Jak nám interaktiv pomůže prodávat více?
+          Zpracování u nás někdy blokuje stará a nepříliš výkonná infrastruktura. Musíme kvůli novému systému všechno upgradovat?
         answer: >
-          Interaktiv poradci za základě získaných vstupů inteligentně napoví, jaké další služby nebo produkty je vhodné klientovi nabídnout. Může tak sloužit jako efektivní nástroj pro up-sell a cross-sell už na samém počátku budování vztahu s klientem.  
+          Pohlídáme si velikost a umístění výstupů tak, aby nedocházelo k výpadkům a zpomalování systému ani v případě, že nejsou k dispozici nijak zvlášť prostorná a rychlá úložiště.  
       - question: >-
-          Je možné využít interaktivní dokumenty pro modelace a výpočty?
+          Můžete dávkové zpracování nastavit tak, aby nám šetřilo náklady na poštovné a obálky?
         answer: >
-          Dalším krokem může být získání vstupů pro analýzu klientových potřeb a následná modelace řešení. Interaktiv dokáže obojí spojit. Interaktivní průvodce v reálném čase vyhodnocuje zadané údaje, na jejich základě volí průchod prodejním scénářem a nabízí relevantní možnosti, služby a produkty. Výsledkem je pak skutečně dynamický a interaktivní proces, kdy poradce i klient společně vidí modelace a výpočty na základě vstupních hodnot. Mohou okamžitě reagovat a upravit vstupy tak, aby dosáhli požadovaných výstupů.
+          Chcete konsolidovat více dokumentů do jedné obálky? Abyste ušetřili, nebo abyste vylepšili klientskou zkušenost? Konsolidaci jsme řešili mnohokrát a víme, že ke každému cíli vede jiná cesta.
       - question: >-
-          Je možné interaktivní dokumenty on-line podepsat? Pomohlo by nám to uzavřít některé transakce kompletně on-line bez nutnosti setkání s klientem na pobočce.
+          Chceme dávkové zpracování optimalizovat přes více komunikačních kanálů. Je to možné?
         answer: >
-          Díky digitálnímu podpisu je možné celou transakci finalizovat bez nutnosti tisku a opětovné digitalizace smluvních dokumentů. Klient je podepisuje z pohodlí domova a na svém vlastním zařízení, které má běžně k dispozici.
-      - question: >-
-          Umí interaktivní portál zajistit uložení a sdílení údajů do celé pobočkové sítě a hlavně na centrálu?
-        answer: >-
-          Klientská data jsou jedním z největších bohatství firmy a pouze jejich centralizace zajistí to, že se data neztratí s odchodem některého z poradců. Interaktiv je proto skvělým nástrojem pro poradenské i jiné firmy s pobočkovou sítí.
+          Někomu jde o snižování nákladů na poštovné, někdo chce být šetrný k přírodě a potisknout co nejméně papíru. Jiní řeší přechod z černobílé komunikace na barevnou, další chtějí minimalizovat klasickou korespondenci ve prospěch e-mailů, SMS nebo dokonce push notifikací. Optimalizace je naším denním chlebem, žádné zadání nás nezaskočí.
     type: section_faq
   - section_id: call-to-action
     type: section_cta
