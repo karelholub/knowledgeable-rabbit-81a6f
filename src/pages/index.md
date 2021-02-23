@@ -35,7 +35,7 @@ sections:
         image: images/onlineHP2.png
         image_alt: Online clients communication processing
         content: >
-          Generujte personalizované dokumenty kdy chcete (potřebujete) a z aplikací, na které jste zvyklí. Naše platforma pro automatickou produkci a distribuci personalizované komunikace se umí bezpečně propojit s vašimi systémy a postará se kompletně o procesy spojené s generováním dokumentů a jejich odesláním ať už ve fyzické nebo digitální formě.
+          Vytvářejte personalizované dokumenty v aplikacích, na které jste zvyklí. Naše platforma pro automatickou tvorbu a distribuci klientské komunikace se umí bezpečně propojit s vašimi systémy a postará se kompletně o procesy spojené s generováním dokumentů a jejich odesláním ve fyzické i digitální podobě.
         actions:
           - label: Chci vědět víc
             url: /online  
