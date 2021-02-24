@@ -9,6 +9,7 @@ module.exports = {
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
+        `gatsby-plugin-styled-components`,
         {
             resolve: `gatsby-source-filesystem`,
             options: {
@@ -36,8 +37,8 @@ module.exports = {
             options: {
               appId: process.env.GATSBY_ALGOLIA_APP_ID,
               apiKey: process.env.ALGOLIA_ADMIN_KEY,
-              queries,
-              chunkSize: 10000,
+              queries: require("./src/utils/algolia-queries"),
+              chunkSize: 10000
             },
           }
     ]
