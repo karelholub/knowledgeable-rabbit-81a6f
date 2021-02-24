@@ -56,7 +56,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Automatizace komunikačních kampaní
-        image: images/automHP2.png
+        image: images/automHP3.png
         image_alt: App preview on a phone and tablet
         content: >
           Sestavíme promyšlené scénáře, které kombinují e-mail, SMS a další
@@ -70,7 +70,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Dynamická komunikace
-        image : images/dcomHP2.png
+        image : images/dcomHP3.png
         image_alt: App users welcoming a new member
         content: >
           Hromadná obchodní sdělení – to je něco, od čeho se klienti raději
@@ -166,7 +166,7 @@ sections:
             no_follow: false
             type: action
         type: feature_item
-        image: images/cobrowseHP2.png
+        image: images/cobrowseHP3.png
   - section_id: reviews
     type: section_reviews
     background: white
