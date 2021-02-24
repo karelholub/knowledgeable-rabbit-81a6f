@@ -5,7 +5,7 @@ sections:
     type: section_content
     background: gray
     title: ''
-    content: "![](images/automBanner2.png)\n\n### Mít to před očima\n\nU složitějších komunikačních scénářů oceníte jejich vizuální podobu, která zachycuje jednotlivé komunikační body, jejich vzájemné propojení, rozhodovací body, spouštěče i vyhodnocení.\n\n#### Plná automatizace\_\n\nKrása používání naší platformy spočívá v plné automatizaci. Bez manuálních zásahů kampaně odcházejí a vyhodnocují se. Uvolní se vám ruce od rutinní exekutivy a kampaně budete řídit jako dobře sehraný orchestr.\n\n#### Otevřel? Neotevřel?\n\nŘešení je napojené na analytické nástroje, které v reálném čase vyhodnocují výsledky komunikace. Reakce vašich klientů tak určují další kroky komunikačního scénáře. Systém se sám učí.\n\n"
+    content: "![](images/automBanner3.png)\n\n### Mít to před očima\n\nU složitějších komunikačních scénářů oceníte jejich vizuální podobu, která zachycuje jednotlivé komunikační body, jejich vzájemné propojení, rozhodovací body, spouštěče i vyhodnocení.\n\n#### Plná automatizace\_\n\nKrása používání naší platformy spočívá v plné automatizaci. Bez manuálních zásahů kampaně odcházejí a vyhodnocují se. Uvolní se vám ruce od rutinní exekutivy a kampaně budete řídit jako dobře sehraný orchestr.\n\n#### Otevřel? Neotevřel?\n\nŘešení je napojené na analytické nástroje, které v reálném čase vyhodnocují výsledky komunikace. Reakce vašich klientů tak určují další kroky komunikačního scénáře. Systém se sám učí.\n\n"
     actions:
       - label: Chci vědět víc
         url: /contact
