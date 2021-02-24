@@ -38,7 +38,7 @@
                 "type": "footer_text",
                 "image" : "images/logo.png",
                 "image_url" : "https://www.copygeneral.cz/",
-                "content": "Lepší klientská komunikace\n"
+                "content": "Lepší komunikace"
             },
             {
                 "type": "footer_nav",
@@ -60,45 +60,6 @@
                         "style": "link"
                     }
                 ]
-            },
-            {
-                "type": "footer_nav",
-                "title": "Zůstaňte ve spojení",
-                "nav_links": [
-                    {
-                        "label": "Twitter",
-                        "url": "https://twitter.com/CopyGeneral",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "twitter",
-                        "icon_position": "left"
-                    },
-                    {
-                        "label": "LinkedIn",
-                        "url": "https://www.linkedin.com/company/copy-general/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "linkedin",
-                        "icon_position": "left"
-                    }
-                ]
-            },
-            {
-                "type": "footer_form",
-                "title": "Ozveme se vám",
-                "content": "Nechte nám email a my se ozveme\n",
-                "form_id": "contactForm",
-                "hide_labels": true,
-                "form_fields": [
-                    {
-                        "input_type": "email",
-                        "name": "email",
-                        "label": "Email",
-                        "default_value": "Zadejte svůj email",
-                        "is_required": true
-                    }
-                ],
-                "submit_label": "Odeslat"
             }
         ],
         "has_nav": true,
@@ -114,7 +75,7 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; CGOS. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
+        "content": "&copy; Copy General. All rights reserved."
     },
     "title": "Lepší komunikace"
 }
