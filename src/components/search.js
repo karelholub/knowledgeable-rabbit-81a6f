@@ -27,7 +27,7 @@ const Hits = connectHits(({ hits }) => (
                                         <p>{hit.description}</p>
                                     </div>
                                     <footer className="post-meta">
-                                        <time className="published" dateTime={moment(hit.date).strftime('%Y-%m-%d %H:%M')}>
+                                        <time className="published" dateTime={moment(hit.date).strftime('%Y-%m-%d')}>
                                             {moment(hit.date).strftime('%B %d, %Y')}
                                         </time>
                                     </footer>
