@@ -1,55 +1,53 @@
 import React from 'react';
-import algoliasearch from 'algoliasearch/lite';
-import { connectHits, InstantSearch, SearchBox } from 'react-instantsearch-dom';
-import { Link, safePrefix } from '../utils';
-import moment from 'moment-strftime';
+import _ from 'lodash';
+import {graphql} from 'gatsby';
 
-const Hits = connectHits(({ hits }) => (
-    <div>
-        {hits.length ? (
-            <div className="post-feed">
-                {hits.map((hit) => {
-                    return (
-                        <article key={hit.objectID} className="post post-card">
-                            <div className="post-card-inside">
-                                <Link className="post-card-thumbnail" to={safePrefix(hit.fields.slug)}>
-                                    <img className="thumbnail" src={safePrefix(hit.thumb_image)} alt={hit.title} />
-                                </Link>
-                                <div className="post-card-content">
-                                    <header className="post-header">
-                                        <h2 className="post-title">
-                                            <Link to={safePrefix(hit.fields.slug)} rel="bookmark">
-                                                {hit.title}
-                                            </Link>
-                                        </h2>
-                                    </header>
-                                    <div className="post-excerpt">
-                                        <p>{hit.description}</p>
-                                    </div>
-                                    <footer className="post-meta">
-                                        <time className="published" dateTime={moment(hit.date).strftime('%Y-%m-%d')}>
-                                            {moment(hit.date).strftime('%B %d, %Y')}
-                                        </time>
-                                    </footer>
-                                </div>
-                            </div>
-                        </article>
-                    );
-                })}
+import {Layout} from '../components/index';
+import {getPages, Link, withPrefix} from '../utils';
+import BlogPostFooter from '../components/BlogPostFooter';
+
+// this minimal GraphQL query ensures that when 'gatsby develop' is running,
+// any changes to content files are reflected in browser
+export const query = graphql`
+  query($url: String) {
+    sitePage(path: {eq: $url}) {
+      id
+    }
+  }
+`;
+
+export default class Blog extends React.Component {
+    render() {
+        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/blog'), 'frontmatter.date', 'desc');
+        return (
+            <Layout {...this.props}>
+            <div className="outer">
+              <div className="inner">
+                <div className="grid post-feed">
+                  {_.map(display_posts, (post, post_idx) => (
+                  <article key={post_idx} className="cell post">
+                    <div className="card">
+                      {_.get(post, 'frontmatter.thumb_image', null) && (
+                      <Link className="post-thumbnail" to={withPrefix(_.get(post, 'url', null))}>
+                        <img src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} />
+                      </Link>
+                      )}
+                      <div className="post-body">
+                        <header className="post-header">
+                          <h2 className="post-title"><Link to={withPrefix(_.get(post, 'url', null))}>{_.get(post, 'frontmatter.title', null)}</Link></h2>
+                        </header>
+                        <div className="post-excerpt">
+                          <p>{_.get(post, 'frontmatter.excerpt', null)}</p>
+                        </div>
+                        <BlogPostFooter {...this.props} page={post} date_type={'short'} />
+                      </div>
+                    </div>
+                  </article>
+                  ))}
+                </div>
+              </div>
             </div>
-        ) : (
-            <p>Bohužel jsem nic nenašel, zkuste něco jiného</p>
-        )}
-    </div>
-));
-
-export default function Search({ indexName }) {
-    const searchClient = algoliasearch(process.env.GATSBY_ALGOLIA_APP_ID, process.env.GATSBY_ALGOLIA_SEARCH_KEY);
-    return (
-        <InstantSearch indexName={indexName} searchClient={searchClient}>
-            <SearchBox />
-            <Hits />
-        </InstantSearch>
-    );
+            </Layout>
+        );
+    }
 }
-
