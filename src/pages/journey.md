@@ -11,7 +11,7 @@ sections:
     image_alt: App preview on a phone and tablet
     title: ''
     content: >
-      ![](images/gettyimages-1174262839-170667a.jpg)
+      ![](images/custJourneyBanner.png)
 
 
       Mapování zákaznických cest je klíčové pro efektivní nastavení procesů a

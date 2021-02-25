@@ -3,7 +3,7 @@ title: Lepší komunikace
 sections:
   - section_id: hero
     type: section_hero
-    image: 
+    image: images/klientKomunikaceHP.png
     image_alt: App preview
     title: Prostě lepší klientská komunikace
     content: >
@@ -98,6 +98,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Customer journey mapping
+        image: images/custJourneyHP.png
         content: >
           Popíšeme a vizualizujeme, kudy se ubírají kroky vašich zákazníků. Kde
           zakopnou a kde narazí. Díky měření zákaznické zkušenosti v
@@ -115,6 +116,7 @@ sections:
             type: action
         type: feature_item
       - title: Komunikační mystery shopping
+        image: images/mysteryHP.png
         content: >
           Každý po čase ztratí odstup od vlastního podnikání a je pro něj těžké
           vžít se do role zákazníka. My to uděláme za vás a systematicky
@@ -132,6 +134,7 @@ sections:
             type: action
         type: feature_item
       - title: Digitální transformace
+        image: images/digTransHP.png
         content: >
           Velká změna v myšlení, která není snadná, ale přinese výsledky.
           Provedeme vás digitální transformací, pomůžeme vám změnit myšlení a
@@ -147,8 +150,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        type: feature_item
-        image: 
+        type: feature_item 
       - title: Co-browsing
         content: >
           Asistované procházení webu v sobě spojuje to nejlepší z online
