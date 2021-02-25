@@ -11,7 +11,7 @@ sections:
     image_alt: digital transformation
     title: ''
     content: >
-      ![](images/gettyimages-1174262839-170667a.jpg)
+      ![](images/digTransBanner.png)
 
 
       ## Vyměnit dopis za e-mail nestačí. Digitální transformace je mnohem hlubší

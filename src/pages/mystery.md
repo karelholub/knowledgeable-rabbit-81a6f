@@ -11,7 +11,7 @@ sections:
     image_alt: mystery shopping
     title: ''
     content: >
-      ![](images/gettyimages-1174262839-170667a.jpg)
+      ![](images/mysteryBanner.png)
 
 
       > Zmapujeme klíčové scénáře vašich služeb a zaměříme se na cílenou,
