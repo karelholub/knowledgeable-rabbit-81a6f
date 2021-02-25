@@ -11,7 +11,7 @@ sections:
     image_alt: Interactive
     title: ''
     content: >
-      ![](images/batchBanner2.png)
+      ![](images/batchBanner3.png)
 
 
       > Naše platforma se dokáže jednoduše a bezpečně napojit na takřka jakýkoli datový zdroj dat, získat potřebná data, vyprodukovat dávku (batch) personalizovaných dokumentů v požadovaných formátech a zajistit jejich distribuci prostřednictvím fyzických i digitálních kanálů. 

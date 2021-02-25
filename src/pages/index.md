@@ -84,7 +84,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Inteligentní chatbot
-        image: images/chatbotHP2.png
+        image: images/chatbotHP3.png
         image_alt: Automatická komunikace
         content: >
           Promluvme si jako lidi. Co na tom, že některé z nás naprogramovali,
