@@ -8,7 +8,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image_alt: Interactive
+    image_alt: on line
     title: ''
     content: >
       ![](images/onlineBanner2.png)
@@ -34,9 +34,9 @@ sections:
       - label: Chci vědět víc
         url: /contact
         style: primary
-      - label: Chci Demo
-        url: /contact
-        style: secondary
+#      - label: Chci Demo
+#        url: /contact
+#        style: secondary
   - section_id: call-to-action
     type: section_cta
     title: Komunikujte lépe - s námi!

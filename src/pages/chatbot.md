@@ -8,12 +8,12 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image_alt: App preview on a phone and tablet
+    image_alt: chatbot
     title : ''
     content: >
       ![](images/chatbotBanner2.png)
 
-      ## Chatbot je kolega, kterého jste v týmu vždycky chtěli. Zvyšuje obraty v
+      > Chatbot je kolega, kterého jste v týmu vždycky chtěli. Zvyšuje obraty v
       obchodě a snižuje náklady v back-office. Zaučí se rychle a pracuje
       neúnavně. Jeho výsledky uvidíte už za měsíc.
 
@@ -43,9 +43,9 @@ sections:
       - label: Chci vědět víc
         url: /contact
         style: primary
-      - label: Chci Demo
-        url: /contact
-        style: secondary
+#      - label: Chci Demo
+#        url: /contact
+#        style: secondary
   - section_id: Nechte se inspirovat
     title: Nechte se inspirovat
     subtitle: ''

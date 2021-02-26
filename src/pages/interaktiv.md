@@ -43,9 +43,9 @@ sections:
       - label: Chci vědět víc
         url: /contact
         style: primary
-      - label: Chci Demo
-        url: /contact
-        style: secondary
+ #     - label: Chci Demo
+ #       url: /contact
+ #       style: secondary
   - section_id: lorem-ipsum
     title: Nechte se inspirovat
     subtitle: ''
