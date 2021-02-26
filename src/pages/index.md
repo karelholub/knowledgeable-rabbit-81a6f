@@ -32,7 +32,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: On-line klientská komunikace
-        image: images/onlineHP2.png
+        image: images/onlineHP3.png
         image_alt: Online clients communication processing
         content: >
           Vytvářejte personalizované dokumenty v aplikacích, na které jste zvyklí. Naše platforma pro automatickou tvorbu a distribuci klientské komunikace se umí bezpečně propojit s vašimi systémy a postará se kompletně o procesy spojené s generováním dokumentů a jejich odesláním ve fyzické i digitální podobě.
@@ -44,7 +44,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Interaktivní klientská komunikace
-        image: images/interaktivHP2.png
+        image: images/interaktivHP3.png
         image_alt: Interactive clients communication
         content: >
           Uvolněte ruce obchodníkům a poradcům, kteří pro vás pracují, a dovolte jim věnovat se naplno jednání s klienty. Ať nemusí řešit obsahové či vzhledové otázky šablon, soulad nabídek s interními pravidly nebo modelace a propočty. Díky přímému napojení klientské komunikace na vnitřní procesy ušetříte až 50 % nákladů.
