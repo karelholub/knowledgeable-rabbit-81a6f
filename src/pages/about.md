@@ -1,15 +1,11 @@
 ---
-title: O nás
+title: Abychom si lépe rozuměli...
 subtitle: >-
-  V klientské korespondenci nesázíme na staré způsoby, ale hledáme dosud
-  nepředstavitelné. Naším heslem je absolutní preciznost a skutečně personalizovaná, funkční klientská komunikace.
 image: 
 image_alt: Team
 template: page
 
 ---
-#Abychom si lépe rozuměli...
-
 ##Kdo jsme 
 Jsme skupina nadšenců do komunikace s klienty. **Věříme v její téměř kouzelnou moc.** Ověřili jsem si v praxi, že když se vezme za správný konec, dokáže skály klientské nepřístupnosti lámat, plnit poloprázdné buňky finančních výkazů a vysekat firmu ze spárů sedmihlavého draka běsnící konkurence. 
 
