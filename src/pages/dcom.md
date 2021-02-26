@@ -8,7 +8,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image_alt: App preview on a phone and tablet
+    image_alt: dynamická komunikace
     title: ''
     content: >
 
@@ -18,7 +18,7 @@ sections:
 
 
 
-      ### Proměňte jednostrannou distribuci informací ve skutečný dialog. Stačí
+      > Proměňte jednostrannou distribuci informací ve skutečný dialog. Stačí
       v komunikaci s klienty využít naplno možností digitálních médií. Pomůžeme
       vám připravit pro každého z nich personalizované sdělení v interaktivní
       formě. Výsledky vám potvrdí, že se to vyplatí.
@@ -40,9 +40,9 @@ sections:
       - label: Chci vědět víc
         url: /contact
         style: primary
-      - label: Chci Demo
-        url: /contact
-        style: secondary
+#      - label: Chci Demo
+#        url: /contact
+#        style: secondary
   - section_id: Nechte se inspirovat
     title: Nechte se inspirovat
     subtitle: ''

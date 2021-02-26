@@ -8,13 +8,13 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image_alt: App preview on a phone and tablet
+    image_alt: customer journey
     title: ''
     content: >
       ![](images/custJourneyBanner.png)
 
 
-      Mapování zákaznických cest je klíčové pro efektivní nastavení procesů a
+      > Mapování zákaznických cest je klíčové pro efektivní nastavení procesů a
       komunikace. Nikdo už nenapíše do recenze: Tomu neuvěříte, čím jsem si s
       nimi musel projít...! Vy totiž budete přesně vědět, čím vaši klienti
       procházejí, a budete to mít plně pod kontrolou.
@@ -47,9 +47,9 @@ sections:
       - label: Chci vědět víc
         url: /contact
         style: primary
-      - label: Chci Demo
-        url: /contact
-        style: secondary
+#      - label: Chci Demo
+#        url: /contact
+#        style: secondary
   - section_id: Nechte se inspirovat
     title: Nechte se inspirovat
     subtitle: ''

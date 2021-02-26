@@ -8,13 +8,13 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image_alt: App preview on a phone and tablet
+    image_alt: cobrowse
     title: ''
     content: >
 
       ![](images/coBrowseBanner3.png)
 
-      ## Technologie pro asistované nebo také sdílené procházení webu v sobě
+      > Technologie pro asistované nebo také sdílené procházení webu v sobě
       spojuje pohodlí nákupu z domova s osobní radou a asistencí, pro kterou
       lidé dříve museli do prodejny. Dovoluje tak firmám plný přechod do online
       prostředí, ať už se jedná o prodej zboží nebo služeb.
@@ -44,9 +44,9 @@ sections:
       - label: Chci vědět víc
         url: /contact
         style: primary
-      - label: Chci Demo
-        url: /contact
-        style: secondary
+#      - label: Chci Demo
+#        url: /contact
+#        style: secondary
   - section_id: Nechte se inspirovat
     title: Nechte se inspirovat
     subtitle: ''

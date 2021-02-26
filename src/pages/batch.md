@@ -13,7 +13,6 @@ sections:
     content: >
       ![](images/batchBanner3.png)
 
-
       > Naše platforma se dokáže jednoduše a bezpečně napojit na takřka jakýkoli datový zdroj dat, získat potřebná data, vyprodukovat dávku (batch) personalizovaných dokumentů v požadovaných formátech a zajistit jejich distribuci prostřednictvím fyzických i digitálních kanálů. 
 
 
@@ -43,9 +42,9 @@ sections:
       - label: Chci vědět víc
         url: /contact
         style: primary
-      - label: Chci Demo
-        url: /contact
-        style: secondary
+#     - label: Chci Demo
+#        url: /contact
+#        style: secondary
   - section_id: lorem-ipsum
     title: Nechte se inspirovat
     subtitle: 'Hromadné zpracování personalizované komunikace může být až překvapivě snadné, když ho svěříte někomu, kdo dobře ví, co dělá, a podobných projektů absolvoval desítky. Jaké výzvy jsme se naučili překonávat?'

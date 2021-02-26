@@ -14,7 +14,7 @@ sections:
       ![](images/digTransBanner.png)
 
 
-      ## Vyměnit dopis za e-mail nestačí. Digitální transformace je mnohem hlubší
+      > Vyměnit dopis za e-mail nestačí. Digitální transformace je mnohem hlubší
       proměna, která musí začít v hlavách lidí. Jejím výsledkem je dialog s
       klientem plně podpořený interními daty a procesy, a to přes komunikační
       kanál, který klient preferuje, a na téma, které je pro něj relevantní.
@@ -44,9 +44,9 @@ sections:
       - label: Chci vědět víc
         url: /contact
         style: primary
-      - label: Chci Demo
-        url: /contact
-        style: secondary
+#      - label: Chci Demo
+#        url: /contact
+#        style: secondary
   - section_id: Nechte se inspirovat
     title: Nechte se inspirovat
     subtitle: ''
