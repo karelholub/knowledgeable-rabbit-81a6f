@@ -182,7 +182,7 @@ sections:
           grafického a komunikačního manuálu přišli s desítkami zlepšení. Naše
           nové dokumenty vypadají skvěle a naši klienti se v nich mnohem lépe
           vyznají.
-        avatar: images/review2.jpg
+        avatar: images/person1.jpg
       - author: digitální komunikace
         content: >-
           Přechod z papírové na digitální komunikaci pro nás byla opravdová
@@ -191,7 +191,7 @@ sections:
           bychom nejspíš přehlédli nebo zapomněli. Ukázali nám, že digitalizace
           není jen o převodu papíru do počítače, ale o změně způsobu myšlení a
           práce.
-        avatar: images/review1.jpg
+        avatar: images/person2.jpg
       - author: outsourcing
         content: >-
           Využíváme platformu a služby CGOS pro plný outsourcing některých typů
@@ -199,7 +199,7 @@ sections:
           infrastruktury a licencí, které jsme zkrátka nemuseli nakoupit a
           udržovat. A přitom máme přístup ke špičkové technologii a k týmovým
           kapacitám, které bychom si interně nemohli dovolit.
-        avatar: images/review3.jpg
+        avatar: images/person3.jpg
   - section_id: reference
     type: section_content
     title: ''

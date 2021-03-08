@@ -15,8 +15,10 @@ Správcem Vašich údajů je
 COPY GENERAL s.r.o. – IČ 45280436, se sídlem Senovážné náměstí 871/26, 110 00, Praha 1, zapsaná v obchodním rejstříku vedeném Městským soudem v Praze pod spisovou značkou C 10079
 Se správcem se můžete spojit prostřednictvím těchto kontaktů:
 
-tel.: +420 210 219 000, e-mail: copygeneral@copygeneral.cz
-DPO: dpo@copygeneral.cz
++ tel.: +420 210 219 000
++ e-mail: copygeneral@copygeneral.cz
++ DPO: dpo@copygeneral.cz
+
 ## 2. Účel, pro který osobní údaje potřebujeme a legitimita jejich zpracování
 Vaše osobní údaje zpracováváme za účelem:
 
@@ -38,8 +40,8 @@ Zpracováváme tyto Vaše osobní údaje:
 4. informace o vzájemné komunikaci – informace z e-mailů, ze záznamů telefonických hovorů nebo kontaktních formulářů,      
 5. fakturační a transakční údaje – jedná se zejména o informace objevující se na fakturách, o sjednaných fakturačních podmínkách a o přijatých platbách,
 6. lokalizační údaje – adresy, které nám poskytujete pro realizaci služeb,
-7. kamerové záznamy – podrobně viz www.copygeneral.cz/kamery,
-8. síťové identifikátory – podrobně viz www.copygeneral.cz/prohlaseni-pouziti-cookies.
+7. kamerové záznamy – podrobně viz [www.copygeneral.cz/kamery](http://www.copygeneral.cz/kamery),
+8. síťové identifikátory – podrobně viz [www.copygeneral.cz/prohlaseni-pouziti-cookies](http://www.copygeneral.cz/prohlaseni-pouziti-cookies).
 
 ### 3.1. Zdroj osobních údajů
 Osobní údaje jsme získali přímo od Vás, a to zejména z vyplněných formulářů, vzájemné komunikace nebo z uzavřených smluv.
@@ -51,7 +53,7 @@ Informace, které musíme archivovat na základě lhůt daných legislativou, uc
 Ostatní informace o zakázkách uchováváme po dobu 5 let od skončení platnosti smlouvy nebo předání zakázky, přičemž dodané podklady k jednotlivým zakázkám likvidujeme bezprostředně po předání zakázky.
 Vaše identifikační a kontaktní údaje, záznamy o komunikaci likvidujeme 5 let po posledním vzájemném kontaktu.
 Osobní údaje zpracovávané pouze pro marketingové účely budou zpracovávány do odvolání souhlasu, maximálně po dobu 7 let.
-Kamerové záznamy jsou uchovávány podle podmínek uvedených viz www.copygeneral.cz/kamery.
+Kamerové záznamy jsou uchovávány podle podmínek uvedených viz [www.copygeneral.cz/kamery](http://www.copygeneral.cz/kamery).
 Po uplynutí uvedené doby budou osobní údaje bezpečně a nenávratně zničeny tak, aby nemohlo dojít k jejich zneužití.
 
 ### 3.3. Předávání dat
@@ -64,12 +66,12 @@ U všech zpracovatelů se staráme o to, aby i oni zpracovávali Vaše osobní �
 Osobní údaje nebudeme předávat do zemí mimo Evropskou unii nebo Evropský hospodářský prostor, ani do žádné mezinárodní organizace.
 
 ## 4. Vaše práva
-V souvislosti se zpracováním Vašich osobních údajů jsou Vám garantována práva popsaná v tomto článku. Můžete je uplatnit u správce na výše uvedených kontaktech, a to buď zasláním e-mailu na uvedené adresy, písemně na adresu sídla společnosti nebo prostřednictvím webového formuláře zde.
+V souvislosti se zpracováním Vašich osobních údajů jsou Vám garantována práva popsaná v tomto článku. Můžete je uplatnit u správce na výše uvedených kontaktech, a to buď zasláním e-mailu na uvedené adresy, písemně na adresu sídla společnosti nebo prostřednictvím webového formuláře [zde](http://gdpr.copygeneral.cz/zadost/landing.aspx).
 Veškerá sdělení a vyjádření k Vámi uplatněným právům poskytuje správce bezplatně. Pokud by však byla žádost zjevně nedůvodná nebo nepřiměřená, zejména proto, že by se opakovala, je správce oprávněn si účtovat přiměřený poplatek zohledňující administrativní náklady spojené s poskytnutím požadovaných informací. V případě opakovaného uplatnění žádosti poskytnutí kopií zpracovávaných osobních údajů si správce vyhrazuje právo z tohoto důvodu účtovat přiměřený poplatek za administrativní náklady.
 Vyjádření a případně informace o přijatých opatřeních Vám správce poskytne co nejdříve, nejpozději však do jednoho měsíce. Lhůtu je správce oprávněn v případě potřeby a s ohledem na složitost a počet žádostí prodloužit o dva měsíce. O prodloužení včetně uvedení důvodů Vás bude správce informovat.
 
 ### 4.1. Právo na informace o zpracování Vašich osobních údajů
-Jste oprávněn/a od správce požadovat informace, zda jsou osobní údaje zpracovávány či nikoli. Pokud jsou osobní údaje zpracovávány, máte právo od správce požadovat informace zejména o totožnosti a kontaktních údajích správce, jeho zástupci a případně pověřenci pro ochranu osobních údajů, o účelech zpracování, o kategoriích dotčených osobních údajů, o příjemcích nebo kategoriích příjemců osobních údajů, o oprávněných správcích, o výčtu Vašich práv, o možnosti obrátit se na Úřad pro ochranu osobních údajů se sídlem pplk. Sochora 27, 170 00 Praha 7, o zdroji zpracovávaných osobních údajů a o automatizovaném rozhodování a profilování.
+Jste oprávněn/a od správce požadovat informace, zda jsou osobní údaje zpracovávány či nikoli. Pokud jsou osobní údaje zpracovávány, máte právo od správce požadovat informace zejména o totožnosti a kontaktních údajích správce, jeho zástupci a případně pověřenci pro ochranu osobních údajů, o účelech zpracování, o kategoriích dotčených osobních údajů, o příjemcích nebo kategoriích příjemců osobních údajů, o oprávněných správcích, o výčtu Vašich práv, o možnosti obrátit se na [Úřad pro ochranu osobních údajů](http://www.uoou.cz/) se sídlem pplk. Sochora 27, 170 00 Praha 7, o zdroji zpracovávaných osobních údajů a o automatizovaném rozhodování a profilování.
 
 Pokud správce hodlá dále Vaše osobní údaje zpracovávat pro jiný účel, než pro který byly získány, poskytne Vám ještě před uvedeným dalším zpracováním informace o tomto jiném účelu a další příslušné informace.
 Informace Vám poskytované v rámci uplatnění tohoto práva jsou obsaženy již v tomto dokumentu, to Vám však nebrání, abyste si o ně požádali znovu.
@@ -106,4 +108,4 @@ Při realizaci zakázky pak jednáme plně v souladu s pokyny zadavatele. Ty jso
 Podklady pro takovéto zakázky (které mohou obsahovat osobní údaje) zpracováváme po dobu nezbytně nutnou a po realizaci zakázky je mažeme/likvidujeme (nejpozději do 30 dnů po předání zakázky, nedošlo-li k nějakým problémům).
 
 ## 6. Platnost
-Tento dokument je platný od 25. 5. 2018 a poslední aktualizace proběhla dne 12. 2. 2020. Aktuální verze bude vždy zveřejněna na webových stránkách společnosti.
+Tento dokument je platný od <mark>25. 5. 2018</mark> a poslední aktualizace proběhla dne 12. 2. 2020. Aktuální verze bude vždy zveřejněna na webových stránkách společnosti.
