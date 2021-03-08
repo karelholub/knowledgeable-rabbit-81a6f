@@ -30,8 +30,9 @@ sections:
           - Chatbot
           - Komunikační mystery shopping
           - Automatizace komunikačních kampaní
+          - Ostatní
       - input_type: textarea
-        name: Chcete nám něco říct?
+        name: Chcete se na něco zeptat nebo si domluvit ukázku našich řešení? Napište nám. 
         label: Zpráva
       - input_type: checkbox
         name: consent
