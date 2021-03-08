@@ -4,9 +4,9 @@ excerpt: >-
   Potřebuju systém, který za mě pracuje a ne systém, který mi generuje více práce
 author: src/data/authors/karel-holub.yaml
 date: '2021-01-22'
-thumb_image: images/9_thumb.jpg
+thumb_image: images/gettyimages-1195693419-170667a.jpg
 thumb_image_alt: People in a conference room
-image: images/9.jpg
+image: images/gettyimages-1195693419-170667a.jpg
 image_alt: People in a conference room
 template: post
 ---

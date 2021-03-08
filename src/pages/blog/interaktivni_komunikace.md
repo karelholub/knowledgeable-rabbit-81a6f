@@ -9,7 +9,7 @@ excerpt: >-
   on-line zpracováním dokumentů, ale svoje nezastupitelné místo tu mají
   interaktivní procesy.
 date: '2021-01-21'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/interaktivHP3.png
 template: post
 ---
 Moderní personalizovaná klientská komunikace si nevystačí jen s hromadným nebo on-line zpracováním dokumentů, ale svoje nezastupitelné místo tu mají interaktivní procesy. Ty dovolují běžnému uživateli naplno využít sílu centralizovaných dokumentových šablon, procesní automatizace, omnikanálové distribuce a řízených obchodních procesů. Nástroje pro práci s interaktivními dokumenty umožní uživateli plně se soustředit na obsah a sdělení. Systém se pak sám postará o soulad dokumentů se standardy korporátního designu, textace, právních a obchodních předpisů nebo dokonce cenových politik a schvalovacích procesů. 
