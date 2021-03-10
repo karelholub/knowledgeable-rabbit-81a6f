@@ -8,6 +8,7 @@ module.exports = {
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
         `gatsby-plugin-styled-components`,
+        'gatsby-plugin-sitemap'
         {
             resolve: `gatsby-source-filesystem`,
             options: {
@@ -28,6 +29,12 @@ module.exports = {
             options: {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
+            }
+        },
+        {
+            resolve: `gatsby-plugin-social9-socialshare`,
+            options: {
+                content:  `test`,
             }
         }
     ]

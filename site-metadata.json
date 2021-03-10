@@ -32,6 +32,18 @@
             }
         ]
     },
+    "social_links": [
+        {
+          "label": "Twitter",
+          "url": "https://twitter.com/karh79",
+          "new_window": true
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/holubkarel/",
+          "new_window": true
+        }
+        ],
     "footer": {
         "sections": [
             {

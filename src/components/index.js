@@ -19,6 +19,7 @@ import SectionPosts from './SectionPosts';
 import SectionPricing from './SectionPricing';
 import SectionReviews from './SectionReviews';
 import Layout from './Layout';
+import SEO from './SEO';
 
 export {
     Action,
