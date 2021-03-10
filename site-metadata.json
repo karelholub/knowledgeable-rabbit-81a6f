@@ -21,7 +21,7 @@
             },
             {
                 "label": "O nás",
-                "url": "/about",
+                "url": "/onas",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -36,19 +36,17 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image" : "images/logo-2.png",
+                "image" : "images/logo-w.png",
                 "image_url" : "https://www.copygeneral.cz/",
                 "content": "Lepší komunikace"
             },
             {
+                "type": "footer_text",
+                "content": ""
+            },
+            {
                 "type": "footer_nav",
-                "title": "Společnost",
-                "nav_links": [
-                    {
-                        "label": "O nás",
-                        "url": "/about",
-                        "style": "link"
-                    },
+                "nav_links":[
                     {
                         "label": "Blog",
                         "url": "/blog",
@@ -57,6 +55,11 @@
                     {
                         "label": "Kontakt",
                         "url": "/contact",
+                        "style": "link"
+                    },
+                    {
+                        "label": "O nás",
+                        "url": "/onas",
                         "style": "link"
                     }
                 ]
@@ -70,7 +73,7 @@
                 "style": "link"
             },
             {
-                "label": "Osobní údaje",
+                "label": "Ochrana osobních údajů",
                 "url": "/osobni-udaje",
                 "style": "link"
             }

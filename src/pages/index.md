@@ -207,7 +207,7 @@ sections:
     content: > 
       ### Důvěřují nám 
       
-      ![](images/reference.png)        
+      ![](images/reference.jpg)        
   - section_id: call-to-action
     type: section_cta
     title: Komunikujte lépe - s námi!
