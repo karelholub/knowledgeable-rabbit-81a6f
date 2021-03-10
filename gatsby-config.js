@@ -3,7 +3,7 @@ const siteMetadata = require('./site-metadata.json')
 module.exports = {
     pathPrefix: '/',
     siteMetadata: {siteMetadata,
-        siteUrl: `https://www.example.com`,
+        siteUrl: `https://www.lepsikomunikace.cz`,
     },    
     plugins: [
         `gatsby-plugin-react-helmet`,
