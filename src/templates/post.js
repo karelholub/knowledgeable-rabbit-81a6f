@@ -1,6 +1,27 @@
 import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
+import SEO from "../components/SEO";
+
+import {
+  EmailShareButton,
+  FacebookShareButton,
+  LinkedinShareButton,
+  PocketShareButton,
+  TwitterShareButton,
+  ViberShareButton,
+  WhatsappShareButton
+} from "react-share";
+
+import {
+  EmailIcon,
+  FacebookIcon,
+  LinkedinIcon,
+  PocketIcon,
+  TwitterIcon,
+  ViberIcon,
+  WhatsappIcon
+} from "react-share";
 
 import {Layout} from '../components/index';
 import {htmlToReact, withPrefix} from '../utils';
@@ -18,8 +39,31 @@ export const query = graphql`
 
 export default class Post extends React.Component {
     render() {
+      let twitter = "";
+      if (
+        _.get(this.props, "pageContext.site.siteMetadata.footer.has_social") &&
+        _.get(this.props, "pageContext.site.siteMetadata.footer.social_links")
+      ) {
+        let social_links = _.get(
+          this.props,
+          "pageContext.site.siteMetadata.footer.social_links"
+        );
+        let twitter =
+          "@" +
+          social_links
+            .find((element) => element.label === "Twitter")
+            .url.split("/")
+            .pop();
+      }
         return (
             <Layout {...this.props}>
+              <SEO
+                title={_.get(this.props, "pageContext.frontmatter.title")}
+                description={_.get(this.props, "pageContext.frontmatter.excerpt")}
+                image={withPrefix(_.get(this.props, "pageContext.frontmatter.image"))}
+                pathname={this.props.location.pathname}
+                author={twitter}
+              />
             <div className="outer">
               <div className="inner-medium">
                 <article className="post post-full">

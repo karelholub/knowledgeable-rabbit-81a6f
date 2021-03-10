@@ -2,12 +2,15 @@ const siteMetadata = require('./site-metadata.json')
 
 module.exports = {
     pathPrefix: '/',
-    siteMetadata: siteMetadata,
+    siteMetadata: {siteMetadata,
+        siteUrl: `https://www.example.com`,
+    },    
     plugins: [
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
         `gatsby-plugin-styled-components`,
+        'gatsby-plugin-sitemap',
         {
             resolve: `gatsby-source-filesystem`,
             options: {

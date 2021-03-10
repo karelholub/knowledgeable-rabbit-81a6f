@@ -6,7 +6,7 @@ sections:
     background: grey
     features:
       - title: Kdo jsme
-        image: images/kdo1.png
+        image: images/kdo.png
         image_alt: Batch processing of clients communication
         content: >
           Jsme skupina nadšenců do komunikace s klienty. **Věříme v její téměř kouzelnou moc.** Ověřili jsem si v praxi, že když se vezme za správný konec, dokáže skály klientské nepřístupnosti lámat, plnit poloprázdné buňky finančních výkazů a vysekat firmu ze spárů sedmihlavého draka běsnící konkurence.
