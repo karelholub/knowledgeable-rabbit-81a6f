@@ -78,12 +78,12 @@ export default class Post extends React.Component {
                   </div>
 
                   <TwitterShareButton
-                    url={this.props.location}
+                    url={"https://www.lepsikomunikace.cz"+this.props.location.pathname}
                   >
                     <TwitterIcon size={32} round={true} />
                   </TwitterShareButton>
                   <LinkedinShareButton
-                    url={this.props.location} className="ln-button"
+                    url={"https://www.lepsikomunikace.cz"+this.props.location.pathname} className="ln-button"
                   >
                     <LinkedinIcon size={32} round />
                   </LinkedinShareButton> 
