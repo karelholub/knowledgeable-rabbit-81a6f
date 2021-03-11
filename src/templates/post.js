@@ -4,28 +4,21 @@ import {graphql} from 'gatsby';
 import SEO from "../components/SEO";
 
 import {
-  EmailShareButton,
   FacebookShareButton,
   LinkedinShareButton,
-  PocketShareButton,
   TwitterShareButton,
-  ViberShareButton,
-  WhatsappShareButton
 } from "react-share";
 
 import {
-  EmailIcon,
   FacebookIcon,
   LinkedinIcon,
-  PocketIcon,
   TwitterIcon,
-  ViberIcon,
-  WhatsappIcon
 } from "react-share";
 
 import {Layout} from '../components/index';
 import {htmlToReact, withPrefix} from '../utils';
 import BlogPostFooter from '../components/BlogPostFooter';
+import CtaButtons from '../components/CtaButtons';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
@@ -83,7 +76,19 @@ export default class Post extends React.Component {
                   <div className="post-content">
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                   </div>
+
+                  <TwitterShareButton
+                    url={window.location.href}
+                  >
+                    <TwitterIcon size={32} round={true} />
+                  </TwitterShareButton>
+                  <LinkedinShareButton
+                    url={window.location.href} className="ln-button"
+                  >
+                    <LinkedinIcon size={32} round />
+                  </LinkedinShareButton> 
                   <BlogPostFooter {...this.props} page={this.props.pageContext} date_type={'long'} />
+                  
                 </article>
               </div>
             </div>
