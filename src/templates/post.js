@@ -78,8 +78,7 @@ export default class Post extends React.Component {
                   </div>
 
                   <TwitterShareButton
-                    url={"https://www.lepsikomunikace.cz"+this.props.location.pathname}
-                  >
+                    url={"https://www.lepsikomunikace.cz"+this.props.location.pathname} >
                     <TwitterIcon size={32} round={true} />
                   </TwitterShareButton>
                   <LinkedinShareButton
@@ -87,7 +86,13 @@ export default class Post extends React.Component {
                   >
                     <LinkedinIcon size={32} round />
                   </LinkedinShareButton> 
+                  <FacebookShareButton
+                    url={"https://www.lepsikomunikace.cz"+this.props.location.pathname} className="ln-button"
+                  >
+                    <FacebookIcon size={32} round />
+                  </FacebookShareButton>
                   <BlogPostFooter {...this.props} page={this.props.pageContext} date_type={'long'} />
+
                   
                 </article>
               </div>

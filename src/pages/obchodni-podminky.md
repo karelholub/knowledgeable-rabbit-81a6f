@@ -15,6 +15,7 @@ template: page
 
 [Odpovědnost za vady](https://www.copygeneral.cz/odpovednost-za-vady2)
  
+ ***
 
 "Orgánem mimosoudního řešení spotřebitelských sporů je Česká obchodní inspekce, jejíž internetové stránky jsou: [www.coi.cz](http://www.coi.cz/), adresa evropské platforma pro řešení mimosoudních řešení spotřebitelských sporů je: http://ec.europa.eu/consumers/odr/."
 
