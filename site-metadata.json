@@ -50,11 +50,7 @@
                 "type": "footer_text",
                 "image" : "images/logo-w.png",
                 "image_url" : "https://www.copygeneral.cz/",
-                "content": "Lepší komunikace"
-            },
-            {
-                "type": "footer_text",
-                "content": ""
+                "content": "### Lepší komunikace"
             },
             {
                 "type": "footer_nav",
@@ -75,6 +71,10 @@
                         "style": "link"
                     }
                 ]
+            },
+            {
+                "type": "footer_text",
+                "content": "Křížová 2598/4<br>150 00<br> Praha 5<br>tel.: +420 210 219 000<br>(v pracovní dny od 8–17 hodin)<br>"
             }
         ],
         "has_nav": true,

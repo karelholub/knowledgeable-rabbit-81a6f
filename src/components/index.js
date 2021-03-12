@@ -20,6 +20,7 @@ import SectionPricing from './SectionPricing';
 import SectionReviews from './SectionReviews';
 import Layout from './Layout';
 import SEO from './SEO';
+import FormSection from './FormSection';
 
 export {
     Action,
@@ -31,6 +32,7 @@ export {
     FooterNav,
     FooterText,
     FormField,
+    FormSection,
     Header,
     Icon,
     SectionContact,
@@ -55,6 +57,7 @@ export default {
     FooterNav,
     FooterText,
     FormField,
+    FormSection,
     Header,
     Icon,
     SectionContact,
